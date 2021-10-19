@@ -234,6 +234,3 @@ Follow the below steps to cleanup your account to prevent any aditional charges:
 * Navigate to [Redshift console](https://ap-southeast-2.console.aws.amazon.com/redshiftv2/home?region=ap-southeast-2#dashboard)
 * Open the student-cluster and delete the cluster. Uncheck the prompt to take a snapshot before deletion of the cluster
                ![cleanup6.png](./images/cleanup6.png)
- 
-## Survey
-Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3a6rNirgLrWYRW6?Session=HOL06). Participants who complete the surveys from AWS Innovate Online Conference - Data Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 30 September, 2021.
