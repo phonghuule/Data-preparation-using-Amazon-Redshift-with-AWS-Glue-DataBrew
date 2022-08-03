@@ -1,600 +1,601 @@
 INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,marks) VALUES  ('33-9516954','Rose International School','1',6,'great','TRUE','India','2020','Raj','Singh','M',54);
 INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,marks) VALUES  ('33-9516954','Rose International School','2',7,'average','FALSE','India','2020','Deepak','Thakur','M',63);
 INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,marks) VALUES  ('33-9516954','Rose International School','3',5,'worst','FALSE','India','2020','Corinna','Mangenet','M',45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','4',6,'bad','TRUE','Sweden','2020','Manoj','Singh','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','5',4,'good','FALSE','United States','2020','Arnold','Scarman','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','6',4,'worst','FALSE','United States','2020','Suraj','Jain','M',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','7',8,'average','FALSE','Canada','2020','Kimberlee','Draude','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','8',8,'worst','FALSE','Canada','2020','Ashish','Thakur','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','9',6,'average','FALSE','United States','2020','Pasquale','Inge','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','10',8,'average','TRUE','Canada','2020','Sapna','Jain','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','11',5,'average','TRUE','United States','2020','Corrianne','Santostefano','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','12',4,'great','TRUE','Sweden','2020','Deepan','Srivastava','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','13',8,'great','FALSE','United States','2020','Maureene','Giacopello','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','14',4,'bad','TRUE','Sweden','2020','Paton','Mathevet','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','15',5,'great','TRUE','United States','2020','Newton','Ivanishev','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','16',7,'worst','TRUE','India','2020','Ber','Shouler','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','17',7,'worst','FALSE','Canada','2020','Kavita','Agrawal','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','18',6,'bad','TRUE','India','2020','Daffie','Helian','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','19',4,'great','FALSE','Canada','2020','Laney','Barttrum','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','20',5,'good','TRUE','India','2020','Gertie','Bairstow','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','21',5,'good','TRUE','United States','2020','Annemarie','Bernasek','M',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','22',8,'bad','FALSE','Sweden','2020','Jessee','Bangs','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','23',4,'average','TRUE','United States','2020','Kerwin','Maggiore','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','24',6,'worst','TRUE','United States','2020','Dianne','Mathie','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','25',6,'average','TRUE','Canada','2020','Cordell','Glanders','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','26',7,'great','FALSE','Canada','2020','Jade','Oneil','M',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','27',8,'worst','TRUE','Canada','2020','Brigitta','Keoghane','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','28',7,'worst','FALSE','Sweden','2020','Melita','Rudland','F',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','29',8,'bad','FALSE','Canada','2020','Clo','Lanegran','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','30',5,'good','TRUE','Sweden','2020','Monte','Laity','M',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','31',4,'worst','FALSE','United States','2020','Meredithe','Clackson','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','32',4,'good','FALSE','India','2020','Siana','McFade','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','33',4,'great','FALSE','Canada','2020','Jordan','Christophle','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','34',8,'average','FALSE','India','2020','Shaw','Keeves','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','35',8,'bad','TRUE','United States','2020','Frasco','Ingman','F',17,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','36',4,'bad','TRUE','United States','2020','Clevey','Erswell','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','37',6,'worst','TRUE','Canada','2020','Lelia','Jain','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','38',7,'great','TRUE','India','2020','Abagail','Niccolls','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','39',8,'average','FALSE','Sweden','2020','Derron','Maleby','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','40',6,'bad','TRUE','India','2020','Jarid','Sabine','F',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','41',5,'worst','FALSE','India','2020','Boote','Khristyukhin','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','42',7,'good','FALSE','United States','2020','Meta','Sammes','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','43',4,'bad','TRUE','Sweden','2020','Staci','Hampshire','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','44',8,'worst','FALSE','Sweden','2020','Brynn','Oloman','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','45',5,'worst','FALSE','India','2020','Ardis','Wethey','F',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','46',4,'good','TRUE','India','2020','Shane','Heathcote','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','47',5,'worst','TRUE','United States','2020','Rozanne','Roebottom','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','48',8,'average','FALSE','Sweden','2020','Abigael','Merriment','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','49',5,'good','TRUE','Canada','2020','Lovell','Conan','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','50',8,'good','TRUE','Canada','2020','Rorie','Borlease','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','51',8,'good','FALSE','Sweden','2020','Helaine','Dorward','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','52',4,'bad','TRUE','Canada','2020','Delcine','Jarrelt','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','53',5,'average','TRUE','India','2020','Janaya','Keedwell','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','54',6,'worst','FALSE','India','2020','Ilaire','Bodker','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','55',4,'good','FALSE','Canada','2020','Melisandra','Serck','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','56',7,'bad','TRUE','United States','2020','Katerina','Bumphries','M',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','57',7,'bad','FALSE','Canada','2020','Ebony','Willison','F',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','58',8,'great','TRUE','Canada','2020','Godard','Cargen','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','59',4,'worst','FALSE','India','2020','Elva','Cromwell','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','60',4,'great','TRUE','India','2020','Dottie','Taffee','M',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','61',5,'good','FALSE','Sweden','2020','Orren','Ander','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','62',6,'average','TRUE','United States','2020','Deanne','Roder','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','63',4,'good','TRUE','United States','2020','Meghann','Wattingham','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','64',6,'great','FALSE','Sweden','2020','Wendye','Crilley','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','65',8,'worst','FALSE','Canada','2020','Catarina','Thain','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','66',8,'bad','FALSE','Sweden','2020','Mallory','Aleixo','F',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','67',6,'good','TRUE','Canada','2020','Dallis','Elmhurst','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','68',6,'worst','TRUE','India','2020','Kiersten','Morhall','F',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','69',7,'worst','FALSE','United States','2020','Eleni','Nozzolii','M',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','70',7,'bad','FALSE','India','2020','Bert','Muggeridge','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','71',7,'good','FALSE','Sweden','2020','Arly','Rodnight','F',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','72',5,'bad','TRUE','India','2020','Marty','Bulch','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','73',4,'bad','FALSE','Sweden','2020','Orson','Brambell','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','74',7,'good','FALSE','Sweden','2020','Devlen','Addison','M',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','75',5,'worst','TRUE','Canada','2020','Roderigo','Mougeot','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','76',7,'average','FALSE','Sweden','2020','Kristoforo','Lawes','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','77',8,'great','FALSE','Sweden','2020','Costanza','Dencs','M',17,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','78',5,'worst','TRUE','United States','2020','Thaine','Randell','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','79',4,'average','TRUE','India','2020','Marcie','Forster','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','80',7,'average','FALSE','India','2020','Giulia','Suttle','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','81',4,'bad','TRUE','India','2020','Geoffry','Vidgeon','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','82',8,'bad','FALSE','United States','2020','Seumas','Doodney','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','83',8,'good','TRUE','India','2020','Calli','Lucio','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','84',7,'good','TRUE','United States','2020','Jacky','Langshaw','M',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','85',4,'good','TRUE','Canada','2020','Minna','Abramchik','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','86',5,'average','FALSE','Sweden','2020','Mariska','Filochov','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','87',5,'average','TRUE','Canada','2020','Lorianna','Joret','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','88',8,'worst','FALSE','United States','2020','Dov','Emmet','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','89',8,'worst','FALSE','Sweden','2020','Monah','Lidster','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','90',6,'great','FALSE','Sweden','2020','Tabor','Dudenie','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','91',7,'worst','FALSE','Sweden','2020','Cristin','Kleuer','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','92',4,'bad','TRUE','Canada','2020','Lindy','Bernini','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','93',4,'bad','FALSE','United States','2020','Sammie','McCambridge','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','94',5,'good','TRUE','United States','2020','Anatola','Merdew','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','95',7,'worst','TRUE','Sweden','2020','Ardenia','Peirpoint','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','96',7,'great','FALSE','India','2020','Brenden','Mustoo','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','97',5,'great','FALSE','Sweden','2020','Leandra','Skpsey','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','98',7,'average','FALSE','India','2020','Anthea','Wem','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','99',6,'good','FALSE','India','2020','Wendie','Ca','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','100',5,'average','FALSE','India','2020','Stillmann','Pendrid','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','101',8,'average','FALSE','Sweden','2020','Janie','Tilne','F',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','102',4,'great','FALSE','India','2020','Zitella','Dowrey','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','103',8,'good','FALSE','Sweden','2020','Dario','Phillott','M',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','104',4,'worst','TRUE','Sweden','2020','Rosina','Van Zon','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','105',5,'good','FALSE','Canada','2020','Anne-corinne','Chaddock','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','106',5,'great','FALSE','India','2020','Tomasina','Palfreyman','F',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','107',4,'great','TRUE','United States','2020','Cybil','Gherardi','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','108',8,'bad','TRUE','Canada','2020','Lenka','Spedding','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','109',6,'worst','TRUE','Sweden','2020','Delphinia','Gawthrop','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','110',5,'worst','TRUE','Sweden','2020','Cully','Jerke','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','111',7,'good','FALSE','India','2020','Lora','Mundall','F',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','112',4,'good','TRUE','Sweden','2020','Grier','Borrill','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','113',6,'bad','FALSE','United States','2020','Benedetta','Sheaber','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','114',6,'average','TRUE','India','2020','Malvina','Botwright','F',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','115',6,'bad','FALSE','Canada','2020','Haleigh','Scathard','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','116',5,'average','TRUE','India','2020','Geoff','Berardt','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','117',4,'great','FALSE','Sweden','2020','Erich','Raff','F',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','118',4,'bad','FALSE','United States','2020','Arline','Withringten','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','119',4,'worst','FALSE','Canada','2020','Fernando','Chuck','M',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','120',4,'great','FALSE','Canada','2020','Danya','Volette','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','121',7,'worst','TRUE','India','2020','Bonny','Johnston','F',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','122',6,'worst','FALSE','United States','2020','Upton','Gasticke','F',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','123',4,'bad','FALSE','United States','2020','Filippo','Wettern','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','124',5,'worst','TRUE','India','2020','Maryjo','Reese','F',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','125',4,'worst','TRUE','United States','2020','Magdalena','Gaisford','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','126',7,'average','TRUE','United States','2020','Shaughn','Roze','M',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','127',8,'worst','FALSE','India','2020','Billye','Vanelli','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','128',8,'worst','TRUE','Sweden','2020','Filberte','McDunlevy','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','129',5,'bad','FALSE','India','2020','Ethelbert','Swinnerton','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','130',5,'worst','TRUE','Canada','2020','Eloisa','Balazs','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','131',8,'good','TRUE','Canada','2020','Chiquia','Mawson','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','132',5,'great','TRUE','Sweden','2020','Janessa','Petranek','M',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','133',8,'good','TRUE','United States','2020','Ransell','McCorkell','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','134',5,'average','TRUE','Sweden','2020','Enoch','Hillitt','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','135',4,'good','FALSE','Sweden','2020','Irwin','Pyott','M',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','136',6,'average','TRUE','United States','2020','Solomon','Syrett','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','137',5,'worst','TRUE','Canada','2020','Josselyn','Kob','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','138',6,'bad','FALSE','India','2020','Jania','Kundert','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','139',5,'average','FALSE','United States','2020','Benjie','Hawley','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','140',4,'good','FALSE','Sweden','2020','Reinwald','Gosneye','F',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','141',6,'great','TRUE','India','2020','Heath','Ransome','F',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','142',5,'good','FALSE','United States','2020','Joyann','Isles','F',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','143',5,'bad','FALSE','Sweden','2020','Ailbert','Twigge','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','144',4,'average','FALSE','India','2020','Parry','Tomasini','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','145',4,'average','FALSE','Canada','2020','Bel','Yashnov','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','146',6,'great','FALSE','Sweden','2020','Basil','Geard','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','147',6,'average','TRUE','Canada','2020','Johnathon','Mullen','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','148',5,'worst','FALSE','United States','2020','Sidnee','Von Der Empten','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','149',6,'worst','TRUE','Canada','2020','Judy','Bastian','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','150',6,'bad','TRUE','United States','2020','Heddie','Wadmore','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','151',6,'average','TRUE','Sweden','2020','Aurelie','Kirtlan','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','152',4,'good','FALSE','Sweden','2020','Mead','Beasleigh','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','153',5,'great','TRUE','India','2020','Twila','Keijser','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','154',8,'worst','FALSE','United States','2020','Aurea','Jayme','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','155',6,'bad','TRUE','Sweden','2020','Lilias','Garnsworthy','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','156',8,'bad','TRUE','India','2020','Cherin','Lovejoy','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','157',5,'average','TRUE','Sweden','2020','Kamila','Loseby','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','158',7,'good','TRUE','Canada','2020','Chancey','Bachshell','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','159',7,'average','FALSE','Sweden','2020','Vin','Fassum','F',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','160',6,'average','FALSE','Canada','2020','Marie','Henriet','F',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','161',7,'good','TRUE','Sweden','2020','Errol','Rollett','M',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','162',8,'bad','TRUE','India','2020','Hiram','Pavett','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','163',7,'bad','FALSE','Canada','2020','Toddie','Treffry','M',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','164',8,'bad','TRUE','United States','2020','Hamel','Pobjoy','M',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','165',4,'bad','TRUE','Canada','2020','Briant','McElhargy','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','166',4,'good','TRUE','Canada','2020','Jay','Kibbee','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','167',4,'worst','TRUE','Sweden','2020','Maxine','McCallister','F',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','168',7,'great','TRUE','Canada','2020','Darcey','Etuck','M',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','169',7,'bad','FALSE','Sweden','2020','Skylar','Lightewood','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','170',8,'good','FALSE','Sweden','2020','Winifred','Manie','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','171',5,'great','FALSE','India','2020','Crichton','Claxson','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','172',8,'average','TRUE','Sweden','2020','Justino','Terrazzo','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','173',6,'great','TRUE','India','2020','Lane','Yakobovitz','F',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','174',4,'bad','TRUE','United States','2020','Aristotle','Jancic','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','175',5,'average','FALSE','Canada','2020','Ingemar','Soda','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','176',5,'worst','FALSE','Sweden','2020','Denny','Brushneen','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','177',5,'worst','FALSE','Sweden','2020','Massimiliano','Hickford','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','178',5,'good','TRUE','United States','2020','Thatcher','Balffye','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','179',5,'bad','TRUE','India','2020','Lea','Benedick','F',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','180',8,'average','FALSE','Canada','2020','Ardith','Mariner','F',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','181',8,'good','TRUE','Sweden','2020','Abbe','Melsom','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','182',5,'average','TRUE','Sweden','2020','Winni','Izard','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','183',4,'average','FALSE','United States','2020','Marius','Galloway','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','184',5,'average','FALSE','Canada','2020','Bryanty','Simonazzi','M',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','185',4,'good','TRUE','Sweden','2020','Gearard','Roughan','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','186',6,'good','TRUE','Sweden','2020','Alina','Reisk','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','187',4,'bad','TRUE','Sweden','2020','Vivianne','Solan','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','188',5,'great','TRUE','United States','2020','Jolyn','MacKilroe','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','189',4,'average','FALSE','United States','2020','Barbe','Goldring','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','190',6,'worst','TRUE','Sweden','2020','Edsel','Beevors','F',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','191',8,'bad','FALSE','Sweden','2020','Henrietta','Visick','F',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','192',4,'worst','TRUE','Sweden','2020','Pennie','Stitch','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','193',5,'good','TRUE','India','2020','Care','Gounin','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','194',6,'average','TRUE','United States','2020','Julina','Aizic','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','195',5,'good','FALSE','Canada','2020','Ross','Whitnall','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','196',5,'average','TRUE','United States','2020','Hesther','Yallowley','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','197',4,'worst','FALSE','Sweden','2020','Vickie','Skittrell','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','198',7,'good','TRUE','Canada','2020','Garrek','Paunsford','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','199',8,'bad','FALSE','India','2020','Jenifer','Purviss','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','200',8,'average','TRUE','India','2019','Cathrine','Warboys','F',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','201',8,'great','TRUE','Sweden','2019','Berrie','Busst','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','202',8,'bad','TRUE','United States','2019','Kailey','Ping','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','203',6,'good','TRUE','Sweden','2019','Kaye','D''Elias','F',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','204',7,'good','TRUE','India','2019','Amos','Jagger','F',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','205',4,'good','TRUE','United States','2019','Catherine','Masserel','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','206',5,'average','FALSE','India','2019','Cary','Beazleigh','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','207',7,'great','TRUE','India','2019','Cherilynn','Draye','M',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','208',8,'great','TRUE','India','2019','Marthe','Ties','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','209',8,'worst','TRUE','India','2019','Randi','Kimmons','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','210',6,'average','FALSE','United States','2019','Nana','Lafay','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','211',8,'great','TRUE','United States','2019','Elvera','Littell','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','212',6,'worst','FALSE','Sweden','2019','Merrill','Butterley','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','213',8,'average','TRUE','United States','2019','Kerr','Kingswell','M',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','214',7,'good','FALSE','India','2019','Dwayne','Zini','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','215',8,'good','FALSE','Canada','2019','Blair','Cullity','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','216',4,'worst','TRUE','Sweden','2019','Marylynne','Blaxley','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','217',6,'great','TRUE','United States','2019','Justine','Teasell','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','218',7,'average','FALSE','Sweden','2019','Sutton','Jodrelle','F',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','219',7,'great','FALSE','United States','2019','Artur','Dwelling','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','220',6,'good','TRUE','United States','2019','Byran','Goodchild','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','221',5,'average','FALSE','United States','2019','Lettie','Pimerick','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','222',7,'worst','TRUE','United States','2019','Case','Mioni','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','223',8,'great','TRUE','Canada','2019','Bibbye','Veregan','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','224',5,'good','FALSE','India','2019','Kalinda','Flanigan','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','225',8,'worst','FALSE','India','2019','Etti','Lamprecht','M',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','226',4,'bad','FALSE','United States','2019','Maisey','Travers','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','227',8,'bad','FALSE','Sweden','2019','Pietra','Budcock','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','228',8,'great','TRUE','Canada','2019','Annora','Mathieson','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','229',8,'great','TRUE','Canada','2019','Thomas','Basey','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','230',6,'good','TRUE','United States','2019','Hedy','McGlade','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','231',7,'great','FALSE','United States','2019','Bryan','Cashmore','F',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','232',5,'great','FALSE','United States','2019','Maye','Pomphrett','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','233',5,'bad','FALSE','United States','2019','Cordie','Bugs','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','234',6,'worst','TRUE','United States','2019','Barbey','Geyton','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','235',6,'average','TRUE','India','2019','Meris','Domenico','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','236',6,'worst','TRUE','Sweden','2019','Tally','O''Kenny','F',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','237',4,'worst','FALSE','Canada','2019','Gerald','Liver','F',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','238',6,'bad','FALSE','Sweden','2019','Minta','Hackforth','F',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','239',4,'good','FALSE','India','2019','Margarette','Baylis','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','240',5,'great','TRUE','Sweden','2019','Lissa','Guerrin','F',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','241',4,'good','TRUE','Sweden','2019','Mavis','Downs','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','242',6,'worst','FALSE','Canada','2019','Giana','Pires','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','243',8,'bad','FALSE','India','2019','Loreen','Mowson','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','244',8,'worst','FALSE','Sweden','2019','Leann','Selbach','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','245',7,'great','TRUE','Canada','2019','Constantine','Scolts','M',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','246',7,'average','TRUE','Canada','2019','Mathew','Collister','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','247',5,'average','TRUE','India','2019','Rockwell','Trineman','M',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','248',4,'bad','TRUE','Canada','2019','Ramona','Grimmert','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','249',8,'good','FALSE','Canada','2019','Tamma','Escala','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','250',5,'bad','FALSE','Sweden','2019','Germayne','Bartolacci','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','251',7,'worst','FALSE','Sweden','2019','Olga','Brimman','F',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','252',6,'good','TRUE','Canada','2019','Sayers','McVicar','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','253',5,'average','FALSE','Canada','2019','Giselle','Sawyers','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','254',6,'great','TRUE','Sweden','2019','Clemmie','Kiley','F',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','255',6,'good','TRUE','India','2019','Leonie','Seleway','F',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','256',7,'bad','TRUE','Canada','2019','Brien','Croney','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','257',7,'great','TRUE','Canada','2019','Sisely','Beven','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','258',7,'good','FALSE','Sweden','2019','Jess','Bamber','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','259',6,'good','FALSE','United States','2019','Merrili','Backshill','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','260',6,'worst','TRUE','Sweden','2019','Callida','Littlepage','F',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','261',4,'good','TRUE','Sweden','2019','Rania','Bront','M',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','262',8,'average','FALSE','Sweden','2019','Hersch','Smalecombe','M',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','263',4,'good','TRUE','United States','2019','Fifi','Fowls','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','264',7,'great','TRUE','Sweden','2019','Eadie','Mallett','F',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','265',8,'worst','FALSE','Sweden','2019','Drusy','Velareal','M',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','266',4,'good','TRUE','United States','2019','Krystyna','Reeme','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','267',8,'average','FALSE','Canada','2019','Imogen','Allday','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','268',5,'great','TRUE','India','2019','Doroteya','Kember','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','269',6,'great','TRUE','Canada','2019','Kara-lynn','Greatbatch','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','270',4,'average','TRUE','Sweden','2019','Darryl','Gosnell','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','271',5,'good','TRUE','United States','2019','Elihu','Malone','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','272',7,'average','FALSE','India','2019','Donavon','Pee','F',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','273',8,'worst','FALSE','Sweden','2019','Colby','Sineath','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','274',8,'worst','TRUE','India','2019','Louise','Hakking','M',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','275',4,'good','FALSE','United States','2019','Langston','Spieght','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','276',7,'worst','FALSE','United States','2019','Gibbie','Weippert','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','277',8,'average','TRUE','United States','2019','Deidre','Descroix','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','278',7,'great','FALSE','Canada','2019','Arlin','Tilmouth','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','279',8,'worst','FALSE','India','2019','Faith','Vernalls','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','280',5,'good','TRUE','United States','2019','Rutger','Odell','F',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','281',5,'good','TRUE','United States','2019','Aidan','Bleier','F',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','282',6,'good','FALSE','Canada','2019','Casey','Dennehy','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','283',7,'worst','TRUE','United States','2019','Alyss','Clayworth','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','284',4,'average','TRUE','India','2019','Celina','Cossins','F',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','285',7,'bad','FALSE','Sweden','2019','Caldwell','Chable','F',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','286',6,'bad','FALSE','Sweden','2019','Susann','Roblett','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','287',6,'average','TRUE','United States','2019','Christalle','Durnell','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','288',7,'bad','FALSE','India','2019','Kaylee','Le Batteur','F',14,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','289',6,'bad','TRUE','United States','2019','Miltie','Cropton','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','290',8,'bad','TRUE','United States','2019','Sandy','McGeoch','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','291',5,'good','FALSE','United States','2019','Teddy','Billes','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','292',4,'average','TRUE','India','2019','Lemmie','Will','M',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','293',7,'great','FALSE','India','2019','Rudyard','Dawidowsky','F',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','294',8,'great','TRUE','Sweden','2019','Sylvester','Van Leeuwen','F',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','295',6,'average','TRUE','India','2019','Petronille','Napper','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','296',6,'great','TRUE','India','2019','Joelly','Rogliero','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','297',8,'worst','FALSE','Canada','2019','Melodee','Fley','M',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','298',6,'good','TRUE','United States','2019','Stormie','Grassin','F',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','299',6,'bad','TRUE','United States','2019','Trueman','Ager','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','300',5,'worst','TRUE','Canada','2019','Lauralee','Tomei','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','301',5,'average','FALSE','United States','2019','Rakel','Oganian','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','302',5,'worst','TRUE','Canada','2019','Rebecca','Lambell','M',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','303',6,'good','FALSE','United States','2019','Silvana','Blick','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','304',4,'great','FALSE','Canada','2019','Meade','Brockhouse','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','305',7,'bad','TRUE','Sweden','2019','Gunther','Coat','F',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','306',5,'great','TRUE','United States','2019','Valaree','Rhucroft','M',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','307',8,'good','TRUE','Sweden','2019','Dollie','Slemmonds','M',17,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','308',5,'great','FALSE','Canada','2019','Calvin','Rodinger','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','309',5,'bad','TRUE','United States','2019','Flynn','Eadmead','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','310',7,'great','FALSE','India','2019','Blayne','Crenshaw','F',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','311',5,'average','TRUE','Canada','2019','Dominga','Sorsby','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','312',5,'worst','TRUE','India','2019','Forbes','Haffenden','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','313',6,'worst','TRUE','United States','2019','Garth','Schutter','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','314',6,'average','FALSE','India','2019','Prudence','Elves','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','315',7,'bad','FALSE','Canada','2019','Fanya','Owens','F',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','316',4,'great','FALSE','Sweden','2019','Sandy','Webb-Bowen','M',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','317',6,'great','TRUE','India','2019','Georgine','Semarke','F',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','318',6,'good','TRUE','Canada','2019','Zola','Laingmaid','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','319',7,'good','TRUE','India','2019','Allis','Bullar','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','320',5,'great','TRUE','Sweden','2019','Kary','Skip','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','321',8,'bad','TRUE','United States','2019','Spike','Mepsted','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','322',5,'great','TRUE','Sweden','2019','Germaine','Atwood','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','323',4,'good','FALSE','India','2019','Morris','Rouzet','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','324',5,'worst','FALSE','India','2019','Case','Novotni','F',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','325',7,'average','FALSE','United States','2019','Florri','Oxby','M',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','326',4,'good','TRUE','United States','2019','Gayleen','Noddles','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','327',5,'average','TRUE','India','2019','Nanci','Gomersal','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','328',7,'bad','TRUE','United States','2019','Euphemia','Thing','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','329',4,'good','FALSE','Sweden','2019','Gaven','Weyman','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','330',6,'bad','TRUE','India','2019','Manfred','Greenhalgh','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','331',8,'worst','FALSE','United States','2019','Isabella','Somers','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','332',5,'bad','TRUE','United States','2019','Morten','Gommey','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','333',8,'average','TRUE','Canada','2019','Bastien','Gitthouse','F',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','334',7,'bad','FALSE','Canada','2019','Hartley','Fairall','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','335',7,'bad','TRUE','Sweden','2019','Josi','Cheesley','F',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','336',8,'worst','FALSE','United States','2019','Brandise','Sheeran','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','337',6,'worst','FALSE','United States','2019','Giovanna','Standing','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','338',7,'great','FALSE','India','2019','Baryram','Antliff','M',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','339',6,'great','FALSE','Sweden','2019','Louise','Ready','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','340',5,'worst','TRUE','Canada','2019','Fayre','Alwen','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','341',5,'great','FALSE','Sweden','2019','Kirk','O''Kerin','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','342',7,'good','TRUE','Canada','2019','Nestor','Doy','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','343',8,'average','FALSE','Canada','2019','Alvan','Tomadoni','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','344',6,'great','FALSE','Canada','2019','Sileas','Napthine','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','345',8,'bad','FALSE','United States','2019','Cherri','Rodrigo','M',17,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','346',5,'bad','FALSE','Sweden','2019','Toby','Scrine','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','347',5,'good','TRUE','Canada','2019','Lenore','Oddey','M',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','348',7,'worst','TRUE','Sweden','2019','Letizia','McGennis','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','349',6,'average','FALSE','Sweden','2019','Gerta','Knightly','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','350',7,'good','FALSE','Sweden','2019','Madella','Allin','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','351',5,'worst','FALSE','Canada','2019','Luelle','Longmaid','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','352',6,'average','FALSE','United States','2019','Perrine','Andrelli','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','353',8,'average','TRUE','India','2019','Correy','Lowrance','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','354',4,'average','FALSE','Sweden','2019','Carolus','Clamo','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','355',8,'worst','TRUE','India','2019','Tandi','Papworth','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','356',4,'good','TRUE','India','2019','Sheena','Jozsa','F',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','357',7,'bad','TRUE','United States','2019','Cathrin','Harby','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','358',4,'great','FALSE','India','2019','Bernie','Ainsley','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','359',7,'good','TRUE','Canada','2019','Vinnie','Askie','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','360',7,'bad','FALSE','India','2019','Caesar','Kleinschmidt','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','361',4,'average','TRUE','Canada','2019','Angy','Moyles','F',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','362',7,'bad','FALSE','Sweden','2019','Normand','Misselbrook','F',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','363',6,'worst','FALSE','Sweden','2019','Melvin','McCorkindale','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','364',6,'worst','TRUE','Sweden','2019','Roxie','Shoobridge','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','365',5,'average','TRUE','India','2019','Dacie','Brangan','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','366',6,'good','TRUE','United States','2019','Georges','Danigel','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','367',4,'good','TRUE','India','2019','Gifford','Bannell','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','368',4,'average','FALSE','Sweden','2019','Hyacinthie','Fargher','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','369',5,'great','FALSE','United States','2019','Fawne','Coweuppe','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','370',5,'good','TRUE','India','2019','Meg','Smuth','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','371',7,'bad','FALSE','Sweden','2019','Alvan','Spearett','F',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','372',4,'great','TRUE','India','2019','Abe','Ditts','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','373',7,'good','FALSE','United States','2019','Nessy','Tindle','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','374',7,'great','FALSE','Canada','2019','Kit','Miskin','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','375',4,'bad','TRUE','Canada','2019','Kyle','Bisgrove','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','376',6,'average','TRUE','United States','2019','Amii','Flook','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','377',5,'good','FALSE','United States','2019','Aveline','Leggett','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','378',7,'good','TRUE','India','2019','La verne','Gooke','F',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','379',5,'great','TRUE','Sweden','2019','Barbaraanne','Phillimore','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','380',5,'average','FALSE','India','2019','Gottfried','Tattam','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','381',4,'average','FALSE','Canada','2019','Sherline','Sommers','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','382',7,'average','TRUE','India','2019','Giordano','Bladesmith','M',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','383',4,'good','FALSE','United States','2019','Evyn','Ireson','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','384',8,'good','FALSE','India','2019','Kristan','Asgodby','F',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','385',6,'worst','FALSE','Sweden','2019','Tuck','Worstall','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','386',8,'good','FALSE','Canada','2019','Kristy','Fomichyov','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','387',5,'bad','FALSE','India','2019','Tove','Physic','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','388',4,'average','FALSE','India','2019','Nikola','Dobbings','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','389',8,'good','FALSE','Sweden','2019','Patricia','Madre','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','390',6,'worst','FALSE','Sweden','2019','Mattias','Claiton','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','391',8,'worst','FALSE','India','2019','Yank','Filchagin','F',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','392',8,'bad','TRUE','Sweden','2019','Janel','Lacelett','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','393',6,'great','TRUE','Sweden','2019','Rodrique','Furzer','F',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','394',7,'worst','TRUE','India','2019','Dallon','Honsch','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','395',5,'good','TRUE','Canada','2019','Olly','Phizackerly','M',16,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','396',8,'average','FALSE','India','2019','Othella','Byrch','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','397',7,'great','FALSE','United States','2019','Ludvig','Overstreet','F',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','398',6,'bad','TRUE','India','2019','Adrianne','Topping','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','399',6,'bad','TRUE','Sweden','2019','Carena','Arnet','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','400',6,'average','TRUE','Canada','2019','Lyssa','Beldan','M',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','401',6,'great','TRUE','Canada','2018','Saw','Oloman','F',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','402',4,'worst','FALSE','Canada','2018','Dedie','Frew','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','403',4,'average','TRUE','Canada','2018','Blair','Ivashechkin','F',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','404',7,'bad','TRUE','Sweden','2018','Marilyn','Cleevely','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','405',4,'good','FALSE','Sweden','2018','Jeno','Mardling','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','406',5,'good','TRUE','India','2018','Vittorio','Unwins','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','407',7,'worst','FALSE','India','2018','Ange','Dymoke','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','408',7,'worst','FALSE','United States','2018','Meaghan','Domelow','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','409',5,'great','FALSE','India','2018','Codie','Wooster','M',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','410',4,'average','TRUE','India','2018','Onfre','Dargue','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','411',7,'good','FALSE','Canada','2018','Gilemette','Tout','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','412',4,'good','TRUE','United States','2018','Abbie','Doll','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','413',8,'good','TRUE','Canada','2018','Doll','Gonoude','F',17,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','414',4,'worst','TRUE','United States','2018','Lemmie','Aysik','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','415',5,'good','FALSE','Sweden','2018','Bernetta','Frusher','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','416',6,'good','TRUE','United States','2018','Nomi','Scain','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','417',5,'bad','TRUE','India','2018','Monro','Josefsen','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','418',6,'great','TRUE','Canada','2018','Shurwood','Whitrod','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','419',6,'good','FALSE','India','2018','Trumaine','Rogge','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','420',6,'bad','FALSE','Sweden','2018','Andreas','Cawkwell','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','421',4,'great','FALSE','Canada','2018','Nil','Adamkiewicz','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','422',7,'good','FALSE','Canada','2018','Matelda','Seide','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','423',7,'average','FALSE','United States','2018','Catlee','Mussetti','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','424',8,'bad','FALSE','Canada','2018','Deena','Arnoldi','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','425',6,'average','FALSE','India','2018','Carolan','Soutar','F',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','426',4,'bad','FALSE','India','2018','Lexis','Rowbottam','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','427',8,'average','TRUE','Canada','2018','Dick','Tesdale','F',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','428',5,'worst','FALSE','Sweden','2018','Silvan','Schiell','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','429',5,'average','FALSE','India','2018','Vally','Maes','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','430',4,'great','FALSE','Sweden','2018','Lindi','Soutter','F',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','431',5,'bad','TRUE','United States','2018','Zaneta','Makinson','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','432',7,'bad','FALSE','Canada','2018','Meris','Hanbidge','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','433',5,'worst','TRUE','United States','2018','Marianna','Paulat','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','434',7,'good','FALSE','United States','2018','Stephenie','Barneville','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','435',5,'good','FALSE','Sweden','2018','Ethyl','Dumke','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','436',7,'bad','TRUE','India','2018','Felicle','Bonds','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','437',6,'good','FALSE','Sweden','2018','Rebekkah','Yegoshin','M',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','438',5,'good','TRUE','India','2018','Niel','Botcherby','F',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','439',4,'great','TRUE','Canada','2018','Addie','Vedmore','F',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','440',7,'bad','FALSE','Sweden','2018','Nisse','Wrankmore','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','441',5,'great','TRUE','Sweden','2018','Abagail','Korf','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','442',6,'great','FALSE','Canada','2018','Griff','Garaway','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','443',4,'average','FALSE','Canada','2018','Georgie','Fery','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','444',5,'bad','TRUE','Sweden','2018','Griselda','Saggs','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','445',4,'good','FALSE','India','2018','Sondra','Alastair','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','446',7,'worst','TRUE','United States','2018','Mechelle','Dyas','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','447',4,'good','FALSE','Sweden','2018','Alec','Claffey','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','448',4,'average','TRUE','Canada','2018','Latrina','Hassen','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','449',8,'bad','TRUE','United States','2018','Viva','Haskell','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','450',7,'worst','TRUE','Sweden','2018','Camile','Zanicchelli','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','451',4,'worst','TRUE','India','2018','Tab','Khilkov','M',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','452',5,'average','FALSE','Canada','2018','Ezra','Stigell','F',13,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','453',6,'average','TRUE','Sweden','2018','Desi','Iacopo','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','454',6,'good','TRUE','Sweden','2018','Tallie','Wellman','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','455',7,'worst','TRUE','India','2018','Gisela','FitzAlan','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','456',4,'bad','FALSE','United States','2018','Corby','Adenot','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','457',5,'bad','FALSE','India','2018','Atlanta','Rebeiro','M',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','458',8,'worst','FALSE','United States','2018','Rosamund','Gumary','M',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','459',7,'good','FALSE','United States','2018','Richardo','North','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','460',6,'good','FALSE','India','2018','Heath','McGuffog','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','461',8,'great','TRUE','India','2018','Reina','Roadnight','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','462',8,'average','TRUE','United States','2018','Ogden','Toovey','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','463',6,'average','TRUE','United States','2018','Kerri','Hasselby','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','464',6,'bad','TRUE','Canada','2018','Wileen','Pitcaithley','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','465',5,'good','TRUE','Sweden','2018','Marcelline','Eddow','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','466',4,'bad','TRUE','United States','2018','Kylynn','Klauer','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','467',7,'worst','TRUE','Canada','2018','Nicola','Reynish','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','468',4,'bad','FALSE','Canada','2018','Else','Kensington','M',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','469',5,'worst','TRUE','United States','2018','Catarina','Hovey','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','470',4,'worst','TRUE','India','2018','Sonny','Jakeway','M',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','471',6,'great','FALSE','India','2018','Carlye','Dunbobin','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','472',4,'great','FALSE','United States','2018','Durand','Ennor','M',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','473',5,'worst','FALSE','Canada','2018','Irene','Rooney','F',15,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','474',6,'good','FALSE','India','2018','Bonny','Drinan','F',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','475',5,'great','TRUE','United States','2018','Tailor','Backshell','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','476',6,'bad','FALSE','India','2018','Wynne','Haddow','F',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','477',6,'average','TRUE','Sweden','2018','Larina','Piesold','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','478',8,'great','FALSE','Canada','2018','Deloria','Boodle','M',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','479',4,'worst','FALSE','India','2018','Shelba','Hatzar','M',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','480',8,'average','FALSE','Canada','2018','Rosamund','Corzor','F',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','481',6,'worst','TRUE','Sweden','2018','Zebulon','Peacock','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','482',8,'good','TRUE','India','2018','Agosto','Chinnick','M',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','483',8,'average','FALSE','India','2018','Wesley','Polet','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','484',4,'average','TRUE','Canada','2018','Dominik','Ollie','F',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','485',7,'bad','FALSE','United States','2018','Tiertza','Hailes','M',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','486',8,'bad','FALSE','Canada','2018','Garvy','Bazell','M',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','487',4,'great','TRUE','India','2018','Ginger','Coltart','M',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','488',7,'good','TRUE','India','2018','Cleve','Hebborn','M',16,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','489',4,'great','TRUE','United States','2018','Jerrie','Broxholme','F',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','490',4,'average','FALSE','Canada','2018','Karmen','Marshal','M',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','491',8,'great','TRUE','India','2018','Antonino','Braddick','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','492',6,'good','FALSE','India','2018','Halsey','Antonetti','F',14,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','493',4,'worst','FALSE','India','2018','Eileen','Stanlock','F',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','494',6,'good','TRUE','India','2018','Sabra','Tremaine','F',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','495',7,'great','FALSE','India','2018','Lula','Rosenthaler','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','496',4,'great','FALSE','United States','2018','Winfield','O''Ferris','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','497',4,'bad','TRUE','United States','2018','Harman','Syrad','M',11,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','498',8,'worst','TRUE','Canada','2018','Rubina','Senechell','M',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','499',6,'great','TRUE','Sweden','2018','Theodosia','Pauling','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','500',5,'great','TRUE','Canada','2018','Tierney','Alyukin','M',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','501',5,'average','FALSE','Sweden','2018','Jillane','Creavan','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','502',5,'good','FALSE','United States','2018','Giralda','Pittem','M',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','503',4,'good','FALSE','India','2018','Obie','Sumption','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','504',5,'average','TRUE','Sweden','2018','Jessamine','St. Queintain','F',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','505',4,'good','TRUE','Sweden','2018','Norrie','MacGiffin','M',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','506',5,'bad','TRUE','United States','2018','Gunter','Loughren','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','507',6,'bad','FALSE','India','2018','Ashlen','Poynzer','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','508',8,'great','FALSE','Sweden','2018','Torre','Callard','F',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','509',7,'great','TRUE','Canada','2018','Vevay','Cunnane','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','510',7,'average','TRUE','Canada','2018','Boyd','Vales','M',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','511',8,'average','FALSE','Sweden','2018','Kassie','Derrington','M',12,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','512',5,'great','FALSE','Canada','2018','Dagny','Kach','M',12,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','513',6,'bad','TRUE','Canada','2018','Hermione','Fairham','M',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','514',6,'good','FALSE','United States','2018','Ceil','Redborn','M',10,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','515',7,'great','TRUE','United States','2018','Reena','Hanks','M',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','516',8,'average','TRUE','India','2018','L;urette','Pottie','F',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','517',6,'worst','TRUE','United States','2018','Padraig','Stutte','M',12,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','518',4,'great','TRUE','Sweden','2018','Jillene','Rielly','F',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','519',5,'great','TRUE','United States','2018','Ludovika','Foote','F',14,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','520',7,'good','FALSE','United States','2018','Eadmund','Jacquot','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','521',6,'worst','FALSE','United States','2018','Joanne','Blazeby','F',17,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','522',6,'great','FALSE','India','2018','Thomas','MacMeanma','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','523',7,'good','FALSE','United States','2018','Normand','Kuhn','M',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','524',7,'average','TRUE','Canada','2018','Felipa','Eilles','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','525',6,'bad','FALSE','United States','2018','Lonny','Quinnette','F',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','526',7,'average','TRUE','United States','2018','Christoffer','Kalinke','M',10,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','527',5,'bad','FALSE','India','2018','Clementius','Blaxter','M',17,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','528',7,'good','TRUE','Canada','2018','Towny','Cursons','F',11,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','529',6,'bad','TRUE','India','2018','Henrieta','Kirsch','M',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','530',4,'good','FALSE','Sweden','2018','Marlene','Yetman','F',12,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','531',4,'worst','FALSE','United States','2018','Cinderella','Crunkhorn','F',13,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','532',8,'good','TRUE','India','2018','Jeddy','Cescot','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','533',4,'worst','FALSE','United States','2018','Keven','Neachell','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','534',4,'bad','FALSE','Canada','2018','Celie','Deason','F',10,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','535',4,'good','FALSE','India','2018','Ingunna','Pavlata','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','536',4,'bad','TRUE','Sweden','2018','Gerick','Woolland','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','537',8,'average','TRUE','Sweden','2018','Westbrook','Polglase','M',10,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','538',7,'worst','FALSE','India','2018','Jeremy','Marriner','F',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','539',5,'average','FALSE','Sweden','2018','Justinn','Duncklee','M',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','540',4,'average','FALSE','Canada','2018','Pamella','Hertwell','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','541',6,'average','FALSE','India','2018','Greer','Gapper','F',15,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','542',6,'great','TRUE','Sweden','2018','Sebastien','Dennes','M',11,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','543',5,'bad','FALSE','United States','2018','Verene','Leeson','F',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','544',7,'good','TRUE','Sweden','2018','Fran','Nerne','M',17,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','545',4,'good','FALSE','Canada','2018','Arman','Anscott','F',14,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','546',8,'worst','FALSE','Sweden','2018','Robbie','Yon','M',16,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','547',8,'worst','TRUE','Sweden','2018','Aurelia','Sandlin','F',14,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','548',7,'bad','FALSE','United States','2018','Zola','Valente','F',13,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','549',5,'average','TRUE','Sweden','2018','Walker','Syplus','F',10,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','550',5,'worst','TRUE','India','2018','Anthea','Healy','M',11,45);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','551',4,'average','FALSE','India','2018','Bernadina','Hawkslee','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','552',6,'bad','FALSE','Canada','2018','Vilma','Spellicy','F',13,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','553',8,'average','FALSE','United States','2018','Giselle','McCaughey','M',17,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','554',8,'great','FALSE','Sweden','2018','Felecia','Sibson','M',15,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','555',4,'bad','FALSE','Sweden','2018','Celestine','Lanfere','F',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','556',8,'worst','FALSE','India','2018','Michel','De Gregario','M',13,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','557',7,'worst','FALSE','United States','2018','Alberta','O'' Shea','F',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','558',4,'worst','FALSE','India','2018','Ibrahim','Isaac','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','559',4,'good','FALSE','India','2018','Hedi','Flipsen','F',16,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','560',6,'worst','TRUE','Canada','2018','Sadye','Withnall','M',16,54);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','561',4,'bad','FALSE','United States','2018','Dede','Leadstone','M',17,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','562',7,'bad','TRUE','Canada','2018','Carmela','Bruin','M',12,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','563',4,'average','FALSE','India','2018','Korrie','Blackleech','M',15,36);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','564',8,'worst','TRUE','India','2018','Georgina','Tommasuzzi','F',11,72);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','565',7,'bad','TRUE','India','2018','Kevina','Burberow','M',15,63);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','566',6,'worst','TRUE','Sweden','2018','Filmer','Szach','M',12,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','567',6,'average','TRUE','India','2018','Christophorus','Parradye','F',14,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','568',6,'good','FALSE','Canada','2018','Sheppard','Woolis','F',12,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','569',6,'great','FALSE','India','2018','Hedvig','Adamo','F',15,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','570',4,'great','TRUE','United States','2018','Ewell','Stockill','F',16,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','571',7,'average','FALSE','India','2018','Clare','Deighton','M',12,70);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','572',7,'average','TRUE','Sweden','2018','Field','Verney','M',16,70);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','573',7,'good','FALSE','Sweden','2018','Minna','Ivanyukov','M',16,70);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','574',6,'good','FALSE','United States','2018','Nathalie','Duigenan','F',17,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','575',4,'great','FALSE','Sweden','2018','Merrick','Allmark','F',16,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','576',5,'great','FALSE','Sweden','2018','Selma','Tough','M',14,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','577',7,'good','FALSE','India','2018','Darnell','Matley','M',10,70);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','578',8,'good','TRUE','Canada','2018','Chantalle','Goff','F',10,80);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','579',5,'bad','TRUE','Sweden','2018','Yoko','Bartali','F',11,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','580',7,'bad','FALSE','United States','2018','Carmita','Masterton','M',11,70);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','581',4,'good','FALSE','United States','2018','Dotty','Wrigglesworth','F',12,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','582',5,'worst','FALSE','Canada','2018','Galven','Flegg','F',10,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','583',5,'average','FALSE','Sweden','2018','Barbie','MacCarter','F',15,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','584',5,'worst','FALSE','Sweden','2018','Rudd','Pashenkov','F',13,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','585',6,'average','FALSE','India','2018','Mateo','Walling','F',13,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','586',6,'good','FALSE','Canada','2018','Owen','Panton','F',16,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','587',4,'worst','FALSE','Sweden','2018','Thadeus','Cornbell','M',13,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','588',8,'good','TRUE','Canada','2018','Rosaleen','Jakobssen','F',10,80);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','589',7,'bad','FALSE','United States','2018','Margette','Lamminam','F',10,70);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','590',5,'average','TRUE','Sweden','2018','Farand','Kimbury','M',12,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','591',4,'average','TRUE','India','2018','Aime','Gilgryst','F',11,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','592',6,'good','FALSE','Sweden','2018','Ishani','Jha','F',16,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','593',6,'bad','TRUE','Sweden','2018','Ritu','Singh','F',10,60);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','594',8,'great','TRUE','India','2018','Yash','Thakur','M',13,80);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','595',4,'bad','TRUE','Canada','2018','Rani','Jha','F',11,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('33-9516954','Rose International School','596',5,'average','FALSE','India','2018','Kritika','Jain','F',12,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('04-5597628','SS Public School','597',4,'great','TRUE','Canada','2018','Raj','Jain','M',12,40);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('02-6957378','Lotus Public School','598',5,'good','TRUE','United States','2018','Suraj','Jain','M',14,50);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','599',8,'average','FALSE','Sweden','2018','Sonali','Singh','F',10,80);
-INSERT INTO student_schema.study_details (School_id,School_name,student_id,study_time_in_hr,health,internet,country,year,first_name,last_name,gender,age,marks) VALUES  ('45-0673066','SVP International School','600',6,'bad','TRUE','India','2018','Kavya','Jain','F',10,54);
+INSERT INTO student_schema.study_details VALUES 
+ ('45-0673066','SVP International School','4',6,'bad','TRUE','Sweden','2020','Manoj','Singh','M',11,54),
+ ('02-6957378','Lotus Public School','5',4,'good','FALSE','United States','2020','Arnold','Scarman','M',10,36),
+ ('02-6957378','Lotus Public School','6',4,'worst','FALSE','United States','2020','Suraj','Jain','M',14,36),
+ ('04-5597628','SS Public School','7',8,'average','FALSE','Canada','2020','Kimberlee','Draude','M',16,72),
+ ('04-5597628','SS Public School','8',8,'worst','FALSE','Canada','2020','Ashish','Thakur','M',16,72),
+ ('02-6957378','Lotus Public School','9',6,'average','FALSE','United States','2020','Pasquale','Inge','M',17,54),
+ ('04-5597628','SS Public School','10',8,'average','TRUE','Canada','2020','Sapna','Jain','F',11,72),
+ ('02-6957378','Lotus Public School','11',5,'average','TRUE','United States','2020','Corrianne','Santostefano','F',17,45),
+ ('45-0673066','SVP International School','12',4,'great','TRUE','Sweden','2020','Deepan','Srivastava','M',11,36),
+ ('02-6957378','Lotus Public School','13',8,'great','FALSE','United States','2020','Maureene','Giacopello','F',14,72),
+ ('45-0673066','SVP International School','14',4,'bad','TRUE','Sweden','2020','Paton','Mathevet','M',15,36),
+ ('02-6957378','Lotus Public School','15',5,'great','TRUE','United States','2020','Newton','Ivanishev','F',12,45),
+ ('33-9516954','Rose International School','16',7,'worst','TRUE','India','2020','Ber','Shouler','F',11,63),
+ ('04-5597628','SS Public School','17',7,'worst','FALSE','Canada','2020','Kavita','Agrawal','F',12,63),
+ ('33-9516954','Rose International School','18',6,'bad','TRUE','India','2020','Daffie','Helian','M',12,54),
+ ('04-5597628','SS Public School','19',4,'great','FALSE','Canada','2020','Laney','Barttrum','M',13,36),
+ ('33-9516954','Rose International School','20',5,'good','TRUE','India','2020','Gertie','Bairstow','M',12,45),
+ ('02-6957378','Lotus Public School','21',5,'good','TRUE','United States','2020','Annemarie','Bernasek','M',16,45),
+ ('45-0673066','SVP International School','22',8,'bad','FALSE','Sweden','2020','Jessee','Bangs','M',16,72),
+ ('02-6957378','Lotus Public School','23',4,'average','TRUE','United States','2020','Kerwin','Maggiore','M',11,36),
+ ('02-6957378','Lotus Public School','24',6,'worst','TRUE','United States','2020','Dianne','Mathie','M',16,54),
+ ('04-5597628','SS Public School','25',6,'average','TRUE','Canada','2020','Cordell','Glanders','F',14,54),
+ ('04-5597628','SS Public School','26',7,'great','FALSE','Canada','2020','Jade','Oneil','M',14,63),
+ ('04-5597628','SS Public School','27',8,'worst','TRUE','Canada','2020','Brigitta','Keoghane','F',11,72),
+ ('45-0673066','SVP International School','28',7,'worst','FALSE','Sweden','2020','Melita','Rudland','F',14,63),
+ ('04-5597628','SS Public School','29',8,'bad','FALSE','Canada','2020','Clo','Lanegran','M',12,72),
+ ('45-0673066','SVP International School','30',5,'good','TRUE','Sweden','2020','Monte','Laity','M',13,45),
+ ('02-6957378','Lotus Public School','31',4,'worst','FALSE','United States','2020','Meredithe','Clackson','F',16,36),
+ ('33-9516954','Rose International School','32',4,'good','FALSE','India','2020','Siana','McFade','M',16,36),
+ ('04-5597628','SS Public School','33',4,'great','FALSE','Canada','2020','Jordan','Christophle','F',13,36),
+ ('33-9516954','Rose International School','34',8,'average','FALSE','India','2020','Shaw','Keeves','M',12,72),
+ ('02-6957378','Lotus Public School','35',8,'bad','TRUE','United States','2020','Frasco','Ingman','F',17,72),
+ ('02-6957378','Lotus Public School','36',4,'bad','TRUE','United States','2020','Clevey','Erswell','F',11,36),
+ ('04-5597628','SS Public School','37',6,'worst','TRUE','Canada','2020','Lelia','Jain','M',13,54),
+ ('33-9516954','Rose International School','38',7,'great','TRUE','India','2020','Abagail','Niccolls','M',15,63),
+ ('45-0673066','SVP International School','39',8,'average','FALSE','Sweden','2020','Derron','Maleby','M',13,72),
+ ('33-9516954','Rose International School','40',6,'bad','TRUE','India','2020','Jarid','Sabine','F',17,54),
+ ('33-9516954','Rose International School','41',5,'worst','FALSE','India','2020','Boote','Khristyukhin','F',17,45),
+ ('02-6957378','Lotus Public School','42',7,'good','FALSE','United States','2020','Meta','Sammes','M',10,63),
+ ('45-0673066','SVP International School','43',4,'bad','TRUE','Sweden','2020','Staci','Hampshire','M',17,36),
+ ('45-0673066','SVP International School','44',8,'worst','FALSE','Sweden','2020','Brynn','Oloman','F',14,72),
+ ('33-9516954','Rose International School','45',5,'worst','FALSE','India','2020','Ardis','Wethey','F',13,45),
+ ('33-9516954','Rose International School','46',4,'good','TRUE','India','2020','Shane','Heathcote','M',11,36),
+ ('02-6957378','Lotus Public School','47',5,'worst','TRUE','United States','2020','Rozanne','Roebottom','F',15,45),
+ ('45-0673066','SVP International School','48',8,'average','FALSE','Sweden','2020','Abigael','Merriment','F',16,72),
+ ('04-5597628','SS Public School','49',5,'good','TRUE','Canada','2020','Lovell','Conan','F',17,45),
+ ('04-5597628','SS Public School','50',8,'good','TRUE','Canada','2020','Rorie','Borlease','M',13,72),
+ ('45-0673066','SVP International School','51',8,'good','FALSE','Sweden','2020','Helaine','Dorward','F',11,72),
+ ('04-5597628','SS Public School','52',4,'bad','TRUE','Canada','2020','Delcine','Jarrelt','M',16,36),
+ ('33-9516954','Rose International School','53',5,'average','TRUE','India','2020','Janaya','Keedwell','F',15,45),
+ ('33-9516954','Rose International School','54',6,'worst','FALSE','India','2020','Ilaire','Bodker','M',15,54),
+ ('04-5597628','SS Public School','55',4,'good','FALSE','Canada','2020','Melisandra','Serck','M',17,36),
+ ('02-6957378','Lotus Public School','56',7,'bad','TRUE','United States','2020','Katerina','Bumphries','M',11,63),
+ ('04-5597628','SS Public School','57',7,'bad','FALSE','Canada','2020','Ebony','Willison','F',16,63),
+ ('04-5597628','SS Public School','58',8,'great','TRUE','Canada','2020','Godard','Cargen','M',14,72),
+ ('33-9516954','Rose International School','59',4,'worst','FALSE','India','2020','Elva','Cromwell','F',11,36),
+ ('33-9516954','Rose International School','60',4,'great','TRUE','India','2020','Dottie','Taffee','M',12,36),
+ ('45-0673066','SVP International School','61',5,'good','FALSE','Sweden','2020','Orren','Ander','F',15,45),
+ ('02-6957378','Lotus Public School','62',6,'average','TRUE','United States','2020','Deanne','Roder','F',14,54),
+ ('02-6957378','Lotus Public School','63',4,'good','TRUE','United States','2020','Meghann','Wattingham','F',12,36),
+ ('45-0673066','SVP International School','64',6,'great','FALSE','Sweden','2020','Wendye','Crilley','M',12,54),
+ ('04-5597628','SS Public School','65',8,'worst','FALSE','Canada','2020','Catarina','Thain','F',13,72),
+ ('45-0673066','SVP International School','66',8,'bad','FALSE','Sweden','2020','Mallory','Aleixo','F',12,72),
+ ('04-5597628','SS Public School','67',6,'good','TRUE','Canada','2020','Dallis','Elmhurst','M',14,54),
+ ('33-9516954','Rose International School','68',6,'worst','TRUE','India','2020','Kiersten','Morhall','F',15,54),
+ ('02-6957378','Lotus Public School','69',7,'worst','FALSE','United States','2020','Eleni','Nozzolii','M',12,63),
+ ('33-9516954','Rose International School','70',7,'bad','FALSE','India','2020','Bert','Muggeridge','M',13,63),
+ ('45-0673066','SVP International School','71',7,'good','FALSE','Sweden','2020','Arly','Rodnight','F',14,63),
+ ('33-9516954','Rose International School','72',5,'bad','TRUE','India','2020','Marty','Bulch','M',15,45),
+ ('45-0673066','SVP International School','73',4,'bad','FALSE','Sweden','2020','Orson','Brambell','M',16,36),
+ ('45-0673066','SVP International School','74',7,'good','FALSE','Sweden','2020','Devlen','Addison','M',17,63),
+ ('04-5597628','SS Public School','75',5,'worst','TRUE','Canada','2020','Roderigo','Mougeot','M',17,45),
+ ('45-0673066','SVP International School','76',7,'average','FALSE','Sweden','2020','Kristoforo','Lawes','F',13,63),
+ ('45-0673066','SVP International School','77',8,'great','FALSE','Sweden','2020','Costanza','Dencs','M',17,72),
+ ('02-6957378','Lotus Public School','78',5,'worst','TRUE','United States','2020','Thaine','Randell','F',14,45),
+ ('33-9516954','Rose International School','79',4,'average','TRUE','India','2020','Marcie','Forster','M',10,36),
+ ('33-9516954','Rose International School','80',7,'average','FALSE','India','2020','Giulia','Suttle','M',16,63),
+ ('33-9516954','Rose International School','81',4,'bad','TRUE','India','2020','Geoffry','Vidgeon','M',11,36),
+ ('02-6957378','Lotus Public School','82',8,'bad','FALSE','United States','2020','Seumas','Doodney','M',14,72),
+ ('33-9516954','Rose International School','83',8,'good','TRUE','India','2020','Calli','Lucio','F',13,72),
+ ('02-6957378','Lotus Public School','84',7,'good','TRUE','United States','2020','Jacky','Langshaw','M',14,63),
+ ('04-5597628','SS Public School','85',4,'good','TRUE','Canada','2020','Minna','Abramchik','F',10,36),
+ ('45-0673066','SVP International School','86',5,'average','FALSE','Sweden','2020','Mariska','Filochov','F',12,45),
+ ('04-5597628','SS Public School','87',5,'average','TRUE','Canada','2020','Lorianna','Joret','M',17,45),
+ ('02-6957378','Lotus Public School','88',8,'worst','FALSE','United States','2020','Dov','Emmet','M',13,72),
+ ('45-0673066','SVP International School','89',8,'worst','FALSE','Sweden','2020','Monah','Lidster','F',13,72),
+ ('45-0673066','SVP International School','90',6,'great','FALSE','Sweden','2020','Tabor','Dudenie','M',16,54),
+ ('45-0673066','SVP International School','91',7,'worst','FALSE','Sweden','2020','Cristin','Kleuer','F',11,63),
+ ('04-5597628','SS Public School','92',4,'bad','TRUE','Canada','2020','Lindy','Bernini','F',16,36),
+ ('02-6957378','Lotus Public School','93',4,'bad','FALSE','United States','2020','Sammie','McCambridge','M',17,36),
+ ('02-6957378','Lotus Public School','94',5,'good','TRUE','United States','2020','Anatola','Merdew','F',11,45),
+ ('45-0673066','SVP International School','95',7,'worst','TRUE','Sweden','2020','Ardenia','Peirpoint','F',12,63),
+ ('33-9516954','Rose International School','96',7,'great','FALSE','India','2020','Brenden','Mustoo','M',16,63),
+ ('45-0673066','SVP International School','97',5,'great','FALSE','Sweden','2020','Leandra','Skpsey','F',11,45),
+ ('33-9516954','Rose International School','98',7,'average','FALSE','India','2020','Anthea','Wem','M',16,63),
+ ('33-9516954','Rose International School','99',6,'good','FALSE','India','2020','Wendie','Ca','M',10,54),
+ ('33-9516954','Rose International School','100',5,'average','FALSE','India','2020','Stillmann','Pendrid','F',12,45),
+ ('45-0673066','SVP International School','101',8,'average','FALSE','Sweden','2020','Janie','Tilne','F',12,72),
+ ('33-9516954','Rose International School','102',4,'great','FALSE','India','2020','Zitella','Dowrey','F',12,36),
+ ('45-0673066','SVP International School','103',8,'good','FALSE','Sweden','2020','Dario','Phillott','M',15,72),
+ ('45-0673066','SVP International School','104',4,'worst','TRUE','Sweden','2020','Rosina','Van Zon','M',17,36),
+ ('04-5597628','SS Public School','105',5,'good','FALSE','Canada','2020','Anne-corinne','Chaddock','F',15,45),
+ ('33-9516954','Rose International School','106',5,'great','FALSE','India','2020','Tomasina','Palfreyman','F',16,45),
+ ('02-6957378','Lotus Public School','107',4,'great','TRUE','United States','2020','Cybil','Gherardi','M',13,36),
+ ('04-5597628','SS Public School','108',8,'bad','TRUE','Canada','2020','Lenka','Spedding','M',12,72),
+ ('45-0673066','SVP International School','109',6,'worst','TRUE','Sweden','2020','Delphinia','Gawthrop','F',14,54),
+ ('45-0673066','SVP International School','110',5,'worst','TRUE','Sweden','2020','Cully','Jerke','M',14,45),
+ ('33-9516954','Rose International School','111',7,'good','FALSE','India','2020','Lora','Mundall','F',17,63),
+ ('45-0673066','SVP International School','112',4,'good','TRUE','Sweden','2020','Grier','Borrill','F',12,36),
+ ('02-6957378','Lotus Public School','113',6,'bad','FALSE','United States','2020','Benedetta','Sheaber','M',16,54),
+ ('33-9516954','Rose International School','114',6,'average','TRUE','India','2020','Malvina','Botwright','F',15,54),
+ ('04-5597628','SS Public School','115',6,'bad','FALSE','Canada','2020','Haleigh','Scathard','M',16,54),
+ ('33-9516954','Rose International School','116',5,'average','TRUE','India','2020','Geoff','Berardt','F',14,45),
+ ('45-0673066','SVP International School','117',4,'great','FALSE','Sweden','2020','Erich','Raff','F',14,36),
+ ('02-6957378','Lotus Public School','118',4,'bad','FALSE','United States','2020','Arline','Withringten','F',11,36),
+ ('04-5597628','SS Public School','119',4,'worst','FALSE','Canada','2020','Fernando','Chuck','M',12,36),
+ ('04-5597628','SS Public School','120',4,'great','FALSE','Canada','2020','Danya','Volette','M',13,36),
+ ('33-9516954','Rose International School','121',7,'worst','TRUE','India','2020','Bonny','Johnston','F',10,63),
+ ('02-6957378','Lotus Public School','122',6,'worst','FALSE','United States','2020','Upton','Gasticke','F',16,54),
+ ('02-6957378','Lotus Public School','123',4,'bad','FALSE','United States','2020','Filippo','Wettern','F',10,36),
+ ('33-9516954','Rose International School','124',5,'worst','TRUE','India','2020','Maryjo','Reese','F',16,45),
+ ('02-6957378','Lotus Public School','125',4,'worst','TRUE','United States','2020','Magdalena','Gaisford','F',16,36),
+ ('02-6957378','Lotus Public School','126',7,'average','TRUE','United States','2020','Shaughn','Roze','M',14,63),
+ ('33-9516954','Rose International School','127',8,'worst','FALSE','India','2020','Billye','Vanelli','M',12,72),
+ ('45-0673066','SVP International School','128',8,'worst','TRUE','Sweden','2020','Filberte','McDunlevy','F',11,72),
+ ('33-9516954','Rose International School','129',5,'bad','FALSE','India','2020','Ethelbert','Swinnerton','F',12,45),
+ ('04-5597628','SS Public School','130',5,'worst','TRUE','Canada','2020','Eloisa','Balazs','F',11,45),
+ ('04-5597628','SS Public School','131',8,'good','TRUE','Canada','2020','Chiquia','Mawson','M',13,72),
+ ('45-0673066','SVP International School','132',5,'great','TRUE','Sweden','2020','Janessa','Petranek','M',10,45),
+ ('02-6957378','Lotus Public School','133',8,'good','TRUE','United States','2020','Ransell','McCorkell','F',14,72),
+ ('45-0673066','SVP International School','134',5,'average','TRUE','Sweden','2020','Enoch','Hillitt','F',17,45),
+ ('45-0673066','SVP International School','135',4,'good','FALSE','Sweden','2020','Irwin','Pyott','M',12,36),
+ ('02-6957378','Lotus Public School','136',6,'average','TRUE','United States','2020','Solomon','Syrett','F',14,54),
+ ('04-5597628','SS Public School','137',5,'worst','TRUE','Canada','2020','Josselyn','Kob','F',17,45),
+ ('33-9516954','Rose International School','138',6,'bad','FALSE','India','2020','Jania','Kundert','M',10,54),
+ ('02-6957378','Lotus Public School','139',5,'average','FALSE','United States','2020','Benjie','Hawley','M',11,45),
+ ('45-0673066','SVP International School','140',4,'good','FALSE','Sweden','2020','Reinwald','Gosneye','F',15,36),
+ ('33-9516954','Rose International School','141',6,'great','TRUE','India','2020','Heath','Ransome','F',11,54),
+ ('02-6957378','Lotus Public School','142',5,'good','FALSE','United States','2020','Joyann','Isles','F',16,45),
+ ('45-0673066','SVP International School','143',5,'bad','FALSE','Sweden','2020','Ailbert','Twigge','M',17,45),
+ ('33-9516954','Rose International School','144',4,'average','FALSE','India','2020','Parry','Tomasini','F',13,36),
+ ('04-5597628','SS Public School','145',4,'average','FALSE','Canada','2020','Bel','Yashnov','M',11,36),
+ ('45-0673066','SVP International School','146',6,'great','FALSE','Sweden','2020','Basil','Geard','M',11,54),
+ ('04-5597628','SS Public School','147',6,'average','TRUE','Canada','2020','Johnathon','Mullen','M',14,54),
+ ('02-6957378','Lotus Public School','148',5,'worst','FALSE','United States','2020','Sidnee','Von Der Empten','F',12,45),
+ ('04-5597628','SS Public School','149',6,'worst','TRUE','Canada','2020','Judy','Bastian','M',13,54),
+ ('02-6957378','Lotus Public School','150',6,'bad','TRUE','United States','2020','Heddie','Wadmore','M',13,54),
+ ('45-0673066','SVP International School','151',6,'average','TRUE','Sweden','2020','Aurelie','Kirtlan','M',12,54),
+ ('45-0673066','SVP International School','152',4,'good','FALSE','Sweden','2020','Mead','Beasleigh','M',16,36),
+ ('33-9516954','Rose International School','153',5,'great','TRUE','India','2020','Twila','Keijser','M',12,45),
+ ('02-6957378','Lotus Public School','154',8,'worst','FALSE','United States','2020','Aurea','Jayme','F',11,72),
+ ('45-0673066','SVP International School','155',6,'bad','TRUE','Sweden','2020','Lilias','Garnsworthy','M',15,54),
+ ('33-9516954','Rose International School','156',8,'bad','TRUE','India','2020','Cherin','Lovejoy','F',13,72),
+ ('45-0673066','SVP International School','157',5,'average','TRUE','Sweden','2020','Kamila','Loseby','F',11,45),
+ ('04-5597628','SS Public School','158',7,'good','TRUE','Canada','2020','Chancey','Bachshell','M',13,63),
+ ('45-0673066','SVP International School','159',7,'average','FALSE','Sweden','2020','Vin','Fassum','F',16,63),
+ ('04-5597628','SS Public School','160',6,'average','FALSE','Canada','2020','Marie','Henriet','F',11,54),
+ ('45-0673066','SVP International School','161',7,'good','TRUE','Sweden','2020','Errol','Rollett','M',17,63),
+ ('33-9516954','Rose International School','162',8,'bad','TRUE','India','2020','Hiram','Pavett','M',14,72),
+ ('04-5597628','SS Public School','163',7,'bad','FALSE','Canada','2020','Toddie','Treffry','M',11,63),
+ ('02-6957378','Lotus Public School','164',8,'bad','TRUE','United States','2020','Hamel','Pobjoy','M',11,72),
+ ('04-5597628','SS Public School','165',4,'bad','TRUE','Canada','2020','Briant','McElhargy','F',13,36),
+ ('04-5597628','SS Public School','166',4,'good','TRUE','Canada','2020','Jay','Kibbee','F',11,36),
+ ('45-0673066','SVP International School','167',4,'worst','TRUE','Sweden','2020','Maxine','McCallister','F',14,36),
+ ('04-5597628','SS Public School','168',7,'great','TRUE','Canada','2020','Darcey','Etuck','M',14,63),
+ ('45-0673066','SVP International School','169',7,'bad','FALSE','Sweden','2020','Skylar','Lightewood','F',13,63),
+ ('45-0673066','SVP International School','170',8,'good','FALSE','Sweden','2020','Winifred','Manie','F',13,72),
+ ('33-9516954','Rose International School','171',5,'great','FALSE','India','2020','Crichton','Claxson','F',12,45),
+ ('45-0673066','SVP International School','172',8,'average','TRUE','Sweden','2020','Justino','Terrazzo','M',12,72),
+ ('33-9516954','Rose International School','173',6,'great','TRUE','India','2020','Lane','Yakobovitz','F',16,54),
+ ('02-6957378','Lotus Public School','174',4,'bad','TRUE','United States','2020','Aristotle','Jancic','M',10,36),
+ ('04-5597628','SS Public School','175',5,'average','FALSE','Canada','2020','Ingemar','Soda','M',14,45),
+ ('45-0673066','SVP International School','176',5,'worst','FALSE','Sweden','2020','Denny','Brushneen','M',14,45),
+ ('45-0673066','SVP International School','177',5,'worst','FALSE','Sweden','2020','Massimiliano','Hickford','F',15,45),
+ ('02-6957378','Lotus Public School','178',5,'good','TRUE','United States','2020','Thatcher','Balffye','M',15,45),
+ ('33-9516954','Rose International School','179',5,'bad','TRUE','India','2020','Lea','Benedick','F',13,45),
+ ('04-5597628','SS Public School','180',8,'average','FALSE','Canada','2020','Ardith','Mariner','F',12,72),
+ ('45-0673066','SVP International School','181',8,'good','TRUE','Sweden','2020','Abbe','Melsom','F',11,72),
+ ('45-0673066','SVP International School','182',5,'average','TRUE','Sweden','2020','Winni','Izard','M',12,45),
+ ('02-6957378','Lotus Public School','183',4,'average','FALSE','United States','2020','Marius','Galloway','F',10,36),
+ ('04-5597628','SS Public School','184',5,'average','FALSE','Canada','2020','Bryanty','Simonazzi','M',16,45),
+ ('45-0673066','SVP International School','185',4,'good','TRUE','Sweden','2020','Gearard','Roughan','M',17,36),
+ ('45-0673066','SVP International School','186',6,'good','TRUE','Sweden','2020','Alina','Reisk','M',14,54),
+ ('45-0673066','SVP International School','187',4,'bad','TRUE','Sweden','2020','Vivianne','Solan','F',13,36),
+ ('02-6957378','Lotus Public School','188',5,'great','TRUE','United States','2020','Jolyn','MacKilroe','F',11,45),
+ ('02-6957378','Lotus Public School','189',4,'average','FALSE','United States','2020','Barbe','Goldring','M',10,36),
+ ('45-0673066','SVP International School','190',6,'worst','TRUE','Sweden','2020','Edsel','Beevors','F',15,54),
+ ('45-0673066','SVP International School','191',8,'bad','FALSE','Sweden','2020','Henrietta','Visick','F',15,72),
+ ('45-0673066','SVP International School','192',4,'worst','TRUE','Sweden','2020','Pennie','Stitch','F',12,36),
+ ('33-9516954','Rose International School','193',5,'good','TRUE','India','2020','Care','Gounin','M',14,45),
+ ('02-6957378','Lotus Public School','194',6,'average','TRUE','United States','2020','Julina','Aizic','M',16,54),
+ ('04-5597628','SS Public School','195',5,'good','FALSE','Canada','2020','Ross','Whitnall','F',15,45),
+ ('02-6957378','Lotus Public School','196',5,'average','TRUE','United States','2020','Hesther','Yallowley','M',11,45),
+ ('45-0673066','SVP International School','197',4,'worst','FALSE','Sweden','2020','Vickie','Skittrell','F',10,36),
+ ('04-5597628','SS Public School','198',7,'good','TRUE','Canada','2020','Garrek','Paunsford','F',13,63),
+ ('33-9516954','Rose International School','199',8,'bad','FALSE','India','2020','Jenifer','Purviss','M',12,72),
+ ('33-9516954','Rose International School','200',8,'average','TRUE','India','2019','Cathrine','Warboys','F',10,72),
+ ('45-0673066','SVP International School','201',8,'great','TRUE','Sweden','2019','Berrie','Busst','M',13,72),
+ ('02-6957378','Lotus Public School','202',8,'bad','TRUE','United States','2019','Kailey','Ping','F',11,72),
+ ('45-0673066','SVP International School','203',6,'good','TRUE','Sweden','2019','Kaye','D''Elias','F',10,54),
+ ('33-9516954','Rose International School','204',7,'good','TRUE','India','2019','Amos','Jagger','F',15,63),
+ ('02-6957378','Lotus Public School','205',4,'good','TRUE','United States','2019','Catherine','Masserel','F',11,36),
+ ('33-9516954','Rose International School','206',5,'average','FALSE','India','2019','Cary','Beazleigh','F',17,45),
+ ('33-9516954','Rose International School','207',7,'great','TRUE','India','2019','Cherilynn','Draye','M',14,63),
+ ('33-9516954','Rose International School','208',8,'great','TRUE','India','2019','Marthe','Ties','M',14,72),
+ ('33-9516954','Rose International School','209',8,'worst','TRUE','India','2019','Randi','Kimmons','F',11,72),
+ ('02-6957378','Lotus Public School','210',6,'average','FALSE','United States','2019','Nana','Lafay','M',13,54),
+ ('02-6957378','Lotus Public School','211',8,'great','TRUE','United States','2019','Elvera','Littell','F',11,72),
+ ('45-0673066','SVP International School','212',6,'worst','FALSE','Sweden','2019','Merrill','Butterley','M',12,54),
+ ('02-6957378','Lotus Public School','213',8,'average','TRUE','United States','2019','Kerr','Kingswell','M',11,72),
+ ('33-9516954','Rose International School','214',7,'good','FALSE','India','2019','Dwayne','Zini','M',13,63),
+ ('04-5597628','SS Public School','215',8,'good','FALSE','Canada','2019','Blair','Cullity','F',16,72),
+ ('45-0673066','SVP International School','216',4,'worst','TRUE','Sweden','2019','Marylynne','Blaxley','F',12,36),
+ ('02-6957378','Lotus Public School','217',6,'great','TRUE','United States','2019','Justine','Teasell','M',14,54),
+ ('45-0673066','SVP International School','218',7,'average','FALSE','Sweden','2019','Sutton','Jodrelle','F',14,63),
+ ('02-6957378','Lotus Public School','219',7,'great','FALSE','United States','2019','Artur','Dwelling','M',16,63),
+ ('02-6957378','Lotus Public School','220',6,'good','TRUE','United States','2019','Byran','Goodchild','M',15,54),
+ ('02-6957378','Lotus Public School','221',5,'average','FALSE','United States','2019','Lettie','Pimerick','M',12,45),
+ ('02-6957378','Lotus Public School','222',7,'worst','TRUE','United States','2019','Case','Mioni','M',13,63),
+ ('04-5597628','SS Public School','223',8,'great','TRUE','Canada','2019','Bibbye','Veregan','F',13,72),
+ ('33-9516954','Rose International School','224',5,'good','FALSE','India','2019','Kalinda','Flanigan','F',15,45),
+ ('33-9516954','Rose International School','225',8,'worst','FALSE','India','2019','Etti','Lamprecht','M',10,72),
+ ('02-6957378','Lotus Public School','226',4,'bad','FALSE','United States','2019','Maisey','Travers','F',16,36),
+ ('45-0673066','SVP International School','227',8,'bad','FALSE','Sweden','2019','Pietra','Budcock','F',16,72),
+ ('04-5597628','SS Public School','228',8,'great','TRUE','Canada','2019','Annora','Mathieson','F',16,72),
+ ('04-5597628','SS Public School','229',8,'great','TRUE','Canada','2019','Thomas','Basey','F',14,72),
+ ('02-6957378','Lotus Public School','230',6,'good','TRUE','United States','2019','Hedy','McGlade','F',14,54),
+ ('02-6957378','Lotus Public School','231',7,'great','FALSE','United States','2019','Bryan','Cashmore','F',10,63),
+ ('02-6957378','Lotus Public School','232',5,'great','FALSE','United States','2019','Maye','Pomphrett','F',14,45),
+ ('02-6957378','Lotus Public School','233',5,'bad','FALSE','United States','2019','Cordie','Bugs','F',12,45),
+ ('02-6957378','Lotus Public School','234',6,'worst','TRUE','United States','2019','Barbey','Geyton','M',11,54),
+ ('33-9516954','Rose International School','235',6,'average','TRUE','India','2019','Meris','Domenico','M',17,54),
+ ('45-0673066','SVP International School','236',6,'worst','TRUE','Sweden','2019','Tally','O''Kenny','F',16,54),
+ ('04-5597628','SS Public School','237',4,'worst','FALSE','Canada','2019','Gerald','Liver','F',17,36),
+ ('45-0673066','SVP International School','238',6,'bad','FALSE','Sweden','2019','Minta','Hackforth','F',16,54),
+ ('33-9516954','Rose International School','239',4,'good','FALSE','India','2019','Margarette','Baylis','F',16,36),
+ ('45-0673066','SVP International School','240',5,'great','TRUE','Sweden','2019','Lissa','Guerrin','F',10,45),
+ ('45-0673066','SVP International School','241',4,'good','TRUE','Sweden','2019','Mavis','Downs','M',10,36),
+ ('04-5597628','SS Public School','242',6,'worst','FALSE','Canada','2019','Giana','Pires','F',14,54),
+ ('33-9516954','Rose International School','243',8,'bad','FALSE','India','2019','Loreen','Mowson','M',14,72),
+ ('45-0673066','SVP International School','244',8,'worst','FALSE','Sweden','2019','Leann','Selbach','F',13,72),
+ ('04-5597628','SS Public School','245',7,'great','TRUE','Canada','2019','Constantine','Scolts','M',11,63),
+ ('04-5597628','SS Public School','246',7,'average','TRUE','Canada','2019','Mathew','Collister','M',10,63),
+ ('33-9516954','Rose International School','247',5,'average','TRUE','India','2019','Rockwell','Trineman','M',10,45),
+ ('04-5597628','SS Public School','248',4,'bad','TRUE','Canada','2019','Ramona','Grimmert','F',12,36),
+ ('04-5597628','SS Public School','249',8,'good','FALSE','Canada','2019','Tamma','Escala','F',14,72),
+ ('45-0673066','SVP International School','250',5,'bad','FALSE','Sweden','2019','Germayne','Bartolacci','M',14,45),
+ ('45-0673066','SVP International School','251',7,'worst','FALSE','Sweden','2019','Olga','Brimman','F',17,63),
+ ('04-5597628','SS Public School','252',6,'good','TRUE','Canada','2019','Sayers','McVicar','M',17,54),
+ ('04-5597628','SS Public School','253',5,'average','FALSE','Canada','2019','Giselle','Sawyers','M',15,45),
+ ('45-0673066','SVP International School','254',6,'great','TRUE','Sweden','2019','Clemmie','Kiley','F',12,54),
+ ('33-9516954','Rose International School','255',6,'good','TRUE','India','2019','Leonie','Seleway','F',17,54),
+ ('04-5597628','SS Public School','256',7,'bad','TRUE','Canada','2019','Brien','Croney','F',11,63),
+ ('04-5597628','SS Public School','257',7,'great','TRUE','Canada','2019','Sisely','Beven','F',11,63),
+ ('45-0673066','SVP International School','258',7,'good','FALSE','Sweden','2019','Jess','Bamber','F',12,63),
+ ('02-6957378','Lotus Public School','259',6,'good','FALSE','United States','2019','Merrili','Backshill','M',11,54),
+ ('45-0673066','SVP International School','260',6,'worst','TRUE','Sweden','2019','Callida','Littlepage','F',11,54),
+ ('45-0673066','SVP International School','261',4,'good','TRUE','Sweden','2019','Rania','Bront','M',14,36),
+ ('45-0673066','SVP International School','262',8,'average','FALSE','Sweden','2019','Hersch','Smalecombe','M',10,72),
+ ('02-6957378','Lotus Public School','263',4,'good','TRUE','United States','2019','Fifi','Fowls','M',11,36),
+ ('45-0673066','SVP International School','264',7,'great','TRUE','Sweden','2019','Eadie','Mallett','F',16,63),
+ ('45-0673066','SVP International School','265',8,'worst','FALSE','Sweden','2019','Drusy','Velareal','M',15,72),
+ ('02-6957378','Lotus Public School','266',4,'good','TRUE','United States','2019','Krystyna','Reeme','M',15,36),
+ ('04-5597628','SS Public School','267',8,'average','FALSE','Canada','2019','Imogen','Allday','F',14,72),
+ ('33-9516954','Rose International School','268',5,'great','TRUE','India','2019','Doroteya','Kember','M',11,45),
+ ('04-5597628','SS Public School','269',6,'great','TRUE','Canada','2019','Kara-lynn','Greatbatch','M',14,54),
+ ('45-0673066','SVP International School','270',4,'average','TRUE','Sweden','2019','Darryl','Gosnell','M',11,36),
+ ('02-6957378','Lotus Public School','271',5,'good','TRUE','United States','2019','Elihu','Malone','M',12,45),
+ ('33-9516954','Rose International School','272',7,'average','FALSE','India','2019','Donavon','Pee','F',10,63),
+ ('45-0673066','SVP International School','273',8,'worst','FALSE','Sweden','2019','Colby','Sineath','F',14,72),
+ ('33-9516954','Rose International School','274',8,'worst','TRUE','India','2019','Louise','Hakking','M',10,72),
+ ('02-6957378','Lotus Public School','275',4,'good','FALSE','United States','2019','Langston','Spieght','F',11,36),
+ ('02-6957378','Lotus Public School','276',7,'worst','FALSE','United States','2019','Gibbie','Weippert','M',13,63),
+ ('02-6957378','Lotus Public School','277',8,'average','TRUE','United States','2019','Deidre','Descroix','M',12,72),
+ ('04-5597628','SS Public School','278',7,'great','FALSE','Canada','2019','Arlin','Tilmouth','M',16,63),
+ ('33-9516954','Rose International School','279',8,'worst','FALSE','India','2019','Faith','Vernalls','F',16,72),
+ ('02-6957378','Lotus Public School','280',5,'good','TRUE','United States','2019','Rutger','Odell','F',13,45),
+ ('02-6957378','Lotus Public School','281',5,'good','TRUE','United States','2019','Aidan','Bleier','F',13,45),
+ ('04-5597628','SS Public School','282',6,'good','FALSE','Canada','2019','Casey','Dennehy','M',12,54),
+ ('02-6957378','Lotus Public School','283',7,'worst','TRUE','United States','2019','Alyss','Clayworth','F',13,63),
+ ('33-9516954','Rose International School','284',4,'average','TRUE','India','2019','Celina','Cossins','F',17,36),
+ ('45-0673066','SVP International School','285',7,'bad','FALSE','Sweden','2019','Caldwell','Chable','F',14,63),
+ ('45-0673066','SVP International School','286',6,'bad','FALSE','Sweden','2019','Susann','Roblett','M',15,54),
+ ('02-6957378','Lotus Public School','287',6,'average','TRUE','United States','2019','Christalle','Durnell','M',12,54),
+ ('33-9516954','Rose International School','288',7,'bad','FALSE','India','2019','Kaylee','Le Batteur','F',14,63),
+ ('02-6957378','Lotus Public School','289',6,'bad','TRUE','United States','2019','Miltie','Cropton','F',14,54),
+ ('02-6957378','Lotus Public School','290',8,'bad','TRUE','United States','2019','Sandy','McGeoch','M',12,72),
+ ('02-6957378','Lotus Public School','291',5,'good','FALSE','United States','2019','Teddy','Billes','F',12,45),
+ ('33-9516954','Rose International School','292',4,'average','TRUE','India','2019','Lemmie','Will','M',14,36),
+ ('33-9516954','Rose International School','293',7,'great','FALSE','India','2019','Rudyard','Dawidowsky','F',17,63),
+ ('45-0673066','SVP International School','294',8,'great','TRUE','Sweden','2019','Sylvester','Van Leeuwen','F',12,72),
+ ('33-9516954','Rose International School','295',6,'average','TRUE','India','2019','Petronille','Napper','M',16,54),
+ ('33-9516954','Rose International School','296',6,'great','TRUE','India','2019','Joelly','Rogliero','M',13,54),
+ ('04-5597628','SS Public School','297',8,'worst','FALSE','Canada','2019','Melodee','Fley','M',11,72),
+ ('02-6957378','Lotus Public School','298',6,'good','TRUE','United States','2019','Stormie','Grassin','F',16,54),
+ ('02-6957378','Lotus Public School','299',6,'bad','TRUE','United States','2019','Trueman','Ager','M',12,54),
+ ('04-5597628','SS Public School','300',5,'worst','TRUE','Canada','2019','Lauralee','Tomei','F',11,45),
+ ('02-6957378','Lotus Public School','301',5,'average','FALSE','United States','2019','Rakel','Oganian','M',14,45),
+ ('04-5597628','SS Public School','302',5,'worst','TRUE','Canada','2019','Rebecca','Lambell','M',13,45),
+ ('02-6957378','Lotus Public School','303',6,'good','FALSE','United States','2019','Silvana','Blick','M',11,54),
+ ('04-5597628','SS Public School','304',4,'great','FALSE','Canada','2019','Meade','Brockhouse','M',10,36),
+ ('45-0673066','SVP International School','305',7,'bad','TRUE','Sweden','2019','Gunther','Coat','F',17,63),
+ ('02-6957378','Lotus Public School','306',5,'great','TRUE','United States','2019','Valaree','Rhucroft','M',16,45),
+ ('45-0673066','SVP International School','307',8,'good','TRUE','Sweden','2019','Dollie','Slemmonds','M',17,72),
+ ('04-5597628','SS Public School','308',5,'great','FALSE','Canada','2019','Calvin','Rodinger','M',15,45),
+ ('02-6957378','Lotus Public School','309',5,'bad','TRUE','United States','2019','Flynn','Eadmead','M',15,45),
+ ('33-9516954','Rose International School','310',7,'great','FALSE','India','2019','Blayne','Crenshaw','F',15,63),
+ ('04-5597628','SS Public School','311',5,'average','TRUE','Canada','2019','Dominga','Sorsby','M',15,45),
+ ('33-9516954','Rose International School','312',5,'worst','TRUE','India','2019','Forbes','Haffenden','M',12,45),
+ ('02-6957378','Lotus Public School','313',6,'worst','TRUE','United States','2019','Garth','Schutter','M',12,54),
+ ('33-9516954','Rose International School','314',6,'average','FALSE','India','2019','Prudence','Elves','M',13,54),
+ ('04-5597628','SS Public School','315',7,'bad','FALSE','Canada','2019','Fanya','Owens','F',10,63),
+ ('45-0673066','SVP International School','316',4,'great','FALSE','Sweden','2019','Sandy','Webb-Bowen','M',14,36),
+ ('33-9516954','Rose International School','317',6,'great','TRUE','India','2019','Georgine','Semarke','F',15,54),
+ ('04-5597628','SS Public School','318',6,'good','TRUE','Canada','2019','Zola','Laingmaid','M',10,54),
+ ('33-9516954','Rose International School','319',7,'good','TRUE','India','2019','Allis','Bullar','M',10,63),
+ ('45-0673066','SVP International School','320',5,'great','TRUE','Sweden','2019','Kary','Skip','M',14,45),
+ ('02-6957378','Lotus Public School','321',8,'bad','TRUE','United States','2019','Spike','Mepsted','F',16,72),
+ ('45-0673066','SVP International School','322',5,'great','TRUE','Sweden','2019','Germaine','Atwood','F',14,45),
+ ('33-9516954','Rose International School','323',4,'good','FALSE','India','2019','Morris','Rouzet','M',11,36),
+ ('33-9516954','Rose International School','324',5,'worst','FALSE','India','2019','Case','Novotni','F',16,45),
+ ('02-6957378','Lotus Public School','325',7,'average','FALSE','United States','2019','Florri','Oxby','M',17,63),
+ ('02-6957378','Lotus Public School','326',4,'good','TRUE','United States','2019','Gayleen','Noddles','M',15,36),
+ ('33-9516954','Rose International School','327',5,'average','TRUE','India','2019','Nanci','Gomersal','F',15,45),
+ ('02-6957378','Lotus Public School','328',7,'bad','TRUE','United States','2019','Euphemia','Thing','F',11,63),
+ ('45-0673066','SVP International School','329',4,'good','FALSE','Sweden','2019','Gaven','Weyman','M',15,36),
+ ('33-9516954','Rose International School','330',6,'bad','TRUE','India','2019','Manfred','Greenhalgh','M',17,54),
+ ('02-6957378','Lotus Public School','331',8,'worst','FALSE','United States','2019','Isabella','Somers','M',16,72),
+ ('02-6957378','Lotus Public School','332',5,'bad','TRUE','United States','2019','Morten','Gommey','M',12,45),
+ ('04-5597628','SS Public School','333',8,'average','TRUE','Canada','2019','Bastien','Gitthouse','F',16,72),
+ ('04-5597628','SS Public School','334',7,'bad','FALSE','Canada','2019','Hartley','Fairall','F',12,63),
+ ('45-0673066','SVP International School','335',7,'bad','TRUE','Sweden','2019','Josi','Cheesley','F',17,63),
+ ('02-6957378','Lotus Public School','336',8,'worst','FALSE','United States','2019','Brandise','Sheeran','F',11,72),
+ ('02-6957378','Lotus Public School','337',6,'worst','FALSE','United States','2019','Giovanna','Standing','M',16,54),
+ ('33-9516954','Rose International School','338',7,'great','FALSE','India','2019','Baryram','Antliff','M',11,63),
+ ('45-0673066','SVP International School','339',6,'great','FALSE','Sweden','2019','Louise','Ready','M',13,54),
+ ('04-5597628','SS Public School','340',5,'worst','TRUE','Canada','2019','Fayre','Alwen','F',11,45),
+ ('45-0673066','SVP International School','341',5,'great','FALSE','Sweden','2019','Kirk','O''Kerin','M',11,45),
+ ('04-5597628','SS Public School','342',7,'good','TRUE','Canada','2019','Nestor','Doy','M',10,63),
+ ('04-5597628','SS Public School','343',8,'average','FALSE','Canada','2019','Alvan','Tomadoni','F',14,72),
+ ('04-5597628','SS Public School','344',6,'great','FALSE','Canada','2019','Sileas','Napthine','M',15,54),
+ ('02-6957378','Lotus Public School','345',8,'bad','FALSE','United States','2019','Cherri','Rodrigo','M',17,72),
+ ('45-0673066','SVP International School','346',5,'bad','FALSE','Sweden','2019','Toby','Scrine','F',15,45),
+ ('04-5597628','SS Public School','347',5,'good','TRUE','Canada','2019','Lenore','Oddey','M',10,45),
+ ('45-0673066','SVP International School','348',7,'worst','TRUE','Sweden','2019','Letizia','McGennis','M',16,63),
+ ('45-0673066','SVP International School','349',6,'average','FALSE','Sweden','2019','Gerta','Knightly','F',14,54),
+ ('45-0673066','SVP International School','350',7,'good','FALSE','Sweden','2019','Madella','Allin','F',12,63),
+ ('04-5597628','SS Public School','351',5,'worst','FALSE','Canada','2019','Luelle','Longmaid','F',14,45),
+ ('02-6957378','Lotus Public School','352',6,'average','FALSE','United States','2019','Perrine','Andrelli','M',13,54),
+ ('33-9516954','Rose International School','353',8,'average','TRUE','India','2019','Correy','Lowrance','F',14,72),
+ ('45-0673066','SVP International School','354',4,'average','FALSE','Sweden','2019','Carolus','Clamo','M',13,36),
+ ('33-9516954','Rose International School','355',8,'worst','TRUE','India','2019','Tandi','Papworth','M',16,72),
+ ('33-9516954','Rose International School','356',4,'good','TRUE','India','2019','Sheena','Jozsa','F',17,36),
+ ('02-6957378','Lotus Public School','357',7,'bad','TRUE','United States','2019','Cathrin','Harby','F',13,63),
+ ('33-9516954','Rose International School','358',4,'great','FALSE','India','2019','Bernie','Ainsley','F',13,36),
+ ('04-5597628','SS Public School','359',7,'good','TRUE','Canada','2019','Vinnie','Askie','M',15,63),
+ ('33-9516954','Rose International School','360',7,'bad','FALSE','India','2019','Caesar','Kleinschmidt','F',12,63),
+ ('04-5597628','SS Public School','361',4,'average','TRUE','Canada','2019','Angy','Moyles','F',14,36),
+ ('45-0673066','SVP International School','362',7,'bad','FALSE','Sweden','2019','Normand','Misselbrook','F',15,63),
+ ('45-0673066','SVP International School','363',6,'worst','FALSE','Sweden','2019','Melvin','McCorkindale','M',11,54),
+ ('45-0673066','SVP International School','364',6,'worst','TRUE','Sweden','2019','Roxie','Shoobridge','M',17,54),
+ ('33-9516954','Rose International School','365',5,'average','TRUE','India','2019','Dacie','Brangan','M',17,45),
+ ('02-6957378','Lotus Public School','366',6,'good','TRUE','United States','2019','Georges','Danigel','M',17,54),
+ ('33-9516954','Rose International School','367',4,'good','TRUE','India','2019','Gifford','Bannell','F',10,36),
+ ('45-0673066','SVP International School','368',4,'average','FALSE','Sweden','2019','Hyacinthie','Fargher','M',10,36),
+ ('02-6957378','Lotus Public School','369',5,'great','FALSE','United States','2019','Fawne','Coweuppe','M',15,45),
+ ('33-9516954','Rose International School','370',5,'good','TRUE','India','2019','Meg','Smuth','F',15,45),
+ ('45-0673066','SVP International School','371',7,'bad','FALSE','Sweden','2019','Alvan','Spearett','F',17,63),
+ ('33-9516954','Rose International School','372',4,'great','TRUE','India','2019','Abe','Ditts','M',16,36),
+ ('02-6957378','Lotus Public School','373',7,'good','FALSE','United States','2019','Nessy','Tindle','M',15,63),
+ ('04-5597628','SS Public School','374',7,'great','FALSE','Canada','2019','Kit','Miskin','F',12,63),
+ ('04-5597628','SS Public School','375',4,'bad','TRUE','Canada','2019','Kyle','Bisgrove','M',11,36),
+ ('02-6957378','Lotus Public School','376',6,'average','TRUE','United States','2019','Amii','Flook','M',10,54),
+ ('02-6957378','Lotus Public School','377',5,'good','FALSE','United States','2019','Aveline','Leggett','F',15,45),
+ ('33-9516954','Rose International School','378',7,'good','TRUE','India','2019','La verne','Gooke','F',15,63),
+ ('45-0673066','SVP International School','379',5,'great','TRUE','Sweden','2019','Barbaraanne','Phillimore','M',17,45),
+ ('33-9516954','Rose International School','380',5,'average','FALSE','India','2019','Gottfried','Tattam','F',12,45),
+ ('04-5597628','SS Public School','381',4,'average','FALSE','Canada','2019','Sherline','Sommers','M',16,36),
+ ('33-9516954','Rose International School','382',7,'average','TRUE','India','2019','Giordano','Bladesmith','M',12,63),
+ ('02-6957378','Lotus Public School','383',4,'good','FALSE','United States','2019','Evyn','Ireson','M',13,36),
+ ('33-9516954','Rose International School','384',8,'good','FALSE','India','2019','Kristan','Asgodby','F',10,72),
+ ('45-0673066','SVP International School','385',6,'worst','FALSE','Sweden','2019','Tuck','Worstall','M',15,54),
+ ('04-5597628','SS Public School','386',8,'good','FALSE','Canada','2019','Kristy','Fomichyov','M',14,72),
+ ('33-9516954','Rose International School','387',5,'bad','FALSE','India','2019','Tove','Physic','F',17,45),
+ ('33-9516954','Rose International School','388',4,'average','FALSE','India','2019','Nikola','Dobbings','M',17,36),
+ ('45-0673066','SVP International School','389',8,'good','FALSE','Sweden','2019','Patricia','Madre','F',13,72),
+ ('45-0673066','SVP International School','390',6,'worst','FALSE','Sweden','2019','Mattias','Claiton','M',17,54),
+ ('33-9516954','Rose International School','391',8,'worst','FALSE','India','2019','Yank','Filchagin','F',15,72),
+ ('45-0673066','SVP International School','392',8,'bad','TRUE','Sweden','2019','Janel','Lacelett','M',16,72),
+ ('45-0673066','SVP International School','393',6,'great','TRUE','Sweden','2019','Rodrique','Furzer','F',10,54),
+ ('33-9516954','Rose International School','394',7,'worst','TRUE','India','2019','Dallon','Honsch','M',16,63),
+ ('04-5597628','SS Public School','395',5,'good','TRUE','Canada','2019','Olly','Phizackerly','M',16,45),
+ ('33-9516954','Rose International School','396',8,'average','FALSE','India','2019','Othella','Byrch','F',13,72),
+ ('02-6957378','Lotus Public School','397',7,'great','FALSE','United States','2019','Ludvig','Overstreet','F',10,63),
+ ('33-9516954','Rose International School','398',6,'bad','TRUE','India','2019','Adrianne','Topping','M',14,54),
+ ('45-0673066','SVP International School','399',6,'bad','TRUE','Sweden','2019','Carena','Arnet','M',11,54),
+ ('04-5597628','SS Public School','400',6,'average','TRUE','Canada','2019','Lyssa','Beldan','M',14,54),
+ ('04-5597628','SS Public School','401',6,'great','TRUE','Canada','2018','Saw','Oloman','F',10,54),
+ ('04-5597628','SS Public School','402',4,'worst','FALSE','Canada','2018','Dedie','Frew','F',10,36),
+ ('04-5597628','SS Public School','403',4,'average','TRUE','Canada','2018','Blair','Ivashechkin','F',14,36),
+ ('45-0673066','SVP International School','404',7,'bad','TRUE','Sweden','2018','Marilyn','Cleevely','M',15,63),
+ ('45-0673066','SVP International School','405',4,'good','FALSE','Sweden','2018','Jeno','Mardling','F',12,36),
+ ('33-9516954','Rose International School','406',5,'good','TRUE','India','2018','Vittorio','Unwins','F',11,45),
+ ('33-9516954','Rose International School','407',7,'worst','FALSE','India','2018','Ange','Dymoke','M',10,63),
+ ('02-6957378','Lotus Public School','408',7,'worst','FALSE','United States','2018','Meaghan','Domelow','M',15,63),
+ ('33-9516954','Rose International School','409',5,'great','FALSE','India','2018','Codie','Wooster','M',10,45),
+ ('33-9516954','Rose International School','410',4,'average','TRUE','India','2018','Onfre','Dargue','M',13,36),
+ ('04-5597628','SS Public School','411',7,'good','FALSE','Canada','2018','Gilemette','Tout','F',11,63),
+ ('02-6957378','Lotus Public School','412',4,'good','TRUE','United States','2018','Abbie','Doll','F',13,36),
+ ('04-5597628','SS Public School','413',8,'good','TRUE','Canada','2018','Doll','Gonoude','F',17,72),
+ ('02-6957378','Lotus Public School','414',4,'worst','TRUE','United States','2018','Lemmie','Aysik','M',17,36),
+ ('45-0673066','SVP International School','415',5,'good','FALSE','Sweden','2018','Bernetta','Frusher','M',17,45),
+ ('02-6957378','Lotus Public School','416',6,'good','TRUE','United States','2018','Nomi','Scain','M',12,54),
+ ('33-9516954','Rose International School','417',5,'bad','TRUE','India','2018','Monro','Josefsen','M',17,45),
+ ('04-5597628','SS Public School','418',6,'great','TRUE','Canada','2018','Shurwood','Whitrod','M',12,54),
+ ('33-9516954','Rose International School','419',6,'good','FALSE','India','2018','Trumaine','Rogge','M',11,54),
+ ('45-0673066','SVP International School','420',6,'bad','FALSE','Sweden','2018','Andreas','Cawkwell','M',12,54),
+ ('04-5597628','SS Public School','421',4,'great','FALSE','Canada','2018','Nil','Adamkiewicz','M',15,36),
+ ('04-5597628','SS Public School','422',7,'good','FALSE','Canada','2018','Matelda','Seide','M',10,63),
+ ('02-6957378','Lotus Public School','423',7,'average','FALSE','United States','2018','Catlee','Mussetti','M',13,63),
+ ('04-5597628','SS Public School','424',8,'bad','FALSE','Canada','2018','Deena','Arnoldi','F',14,72),
+ ('33-9516954','Rose International School','425',6,'average','FALSE','India','2018','Carolan','Soutar','F',13,54),
+ ('33-9516954','Rose International School','426',4,'bad','FALSE','India','2018','Lexis','Rowbottam','M',11,36),
+ ('04-5597628','SS Public School','427',8,'average','TRUE','Canada','2018','Dick','Tesdale','F',10,72),
+ ('45-0673066','SVP International School','428',5,'worst','FALSE','Sweden','2018','Silvan','Schiell','M',11,45),
+ ('33-9516954','Rose International School','429',5,'average','FALSE','India','2018','Vally','Maes','F',17,45),
+ ('45-0673066','SVP International School','430',4,'great','FALSE','Sweden','2018','Lindi','Soutter','F',15,36),
+ ('02-6957378','Lotus Public School','431',5,'bad','TRUE','United States','2018','Zaneta','Makinson','F',11,45),
+ ('04-5597628','SS Public School','432',7,'bad','FALSE','Canada','2018','Meris','Hanbidge','F',12,63),
+ ('02-6957378','Lotus Public School','433',5,'worst','TRUE','United States','2018','Marianna','Paulat','F',17,45),
+ ('02-6957378','Lotus Public School','434',7,'good','FALSE','United States','2018','Stephenie','Barneville','M',15,63),
+ ('45-0673066','SVP International School','435',5,'good','FALSE','Sweden','2018','Ethyl','Dumke','M',17,45),
+ ('33-9516954','Rose International School','436',7,'bad','TRUE','India','2018','Felicle','Bonds','M',13,63),
+ ('45-0673066','SVP International School','437',6,'good','FALSE','Sweden','2018','Rebekkah','Yegoshin','M',17,54),
+ ('33-9516954','Rose International School','438',5,'good','TRUE','India','2018','Niel','Botcherby','F',12,45),
+ ('04-5597628','SS Public School','439',4,'great','TRUE','Canada','2018','Addie','Vedmore','F',15,36),
+ ('45-0673066','SVP International School','440',7,'bad','FALSE','Sweden','2018','Nisse','Wrankmore','F',13,63),
+ ('45-0673066','SVP International School','441',5,'great','TRUE','Sweden','2018','Abagail','Korf','M',11,45),
+ ('04-5597628','SS Public School','442',6,'great','FALSE','Canada','2018','Griff','Garaway','F',14,54),
+ ('04-5597628','SS Public School','443',4,'average','FALSE','Canada','2018','Georgie','Fery','M',10,36),
+ ('45-0673066','SVP International School','444',5,'bad','TRUE','Sweden','2018','Griselda','Saggs','F',14,45),
+ ('33-9516954','Rose International School','445',4,'good','FALSE','India','2018','Sondra','Alastair','F',11,36),
+ ('02-6957378','Lotus Public School','446',7,'worst','TRUE','United States','2018','Mechelle','Dyas','M',13,63),
+ ('45-0673066','SVP International School','447',4,'good','FALSE','Sweden','2018','Alec','Claffey','M',13,36),
+ ('04-5597628','SS Public School','448',4,'average','TRUE','Canada','2018','Latrina','Hassen','M',15,36),
+ ('02-6957378','Lotus Public School','449',8,'bad','TRUE','United States','2018','Viva','Haskell','F',13,72),
+ ('45-0673066','SVP International School','450',7,'worst','TRUE','Sweden','2018','Camile','Zanicchelli','M',16,63),
+ ('33-9516954','Rose International School','451',4,'worst','TRUE','India','2018','Tab','Khilkov','M',12,36),
+ ('04-5597628','SS Public School','452',5,'average','FALSE','Canada','2018','Ezra','Stigell','F',13,45),
+ ('45-0673066','SVP International School','453',6,'average','TRUE','Sweden','2018','Desi','Iacopo','M',16,54),
+ ('45-0673066','SVP International School','454',6,'good','TRUE','Sweden','2018','Tallie','Wellman','M',16,54),
+ ('33-9516954','Rose International School','455',7,'worst','TRUE','India','2018','Gisela','FitzAlan','M',16,63),
+ ('02-6957378','Lotus Public School','456',4,'bad','FALSE','United States','2018','Corby','Adenot','M',13,36),
+ ('33-9516954','Rose International School','457',5,'bad','FALSE','India','2018','Atlanta','Rebeiro','M',15,45),
+ ('02-6957378','Lotus Public School','458',8,'worst','FALSE','United States','2018','Rosamund','Gumary','M',10,72),
+ ('02-6957378','Lotus Public School','459',7,'good','FALSE','United States','2018','Richardo','North','M',16,63),
+ ('33-9516954','Rose International School','460',6,'good','FALSE','India','2018','Heath','McGuffog','F',14,54),
+ ('33-9516954','Rose International School','461',8,'great','TRUE','India','2018','Reina','Roadnight','M',12,72),
+ ('02-6957378','Lotus Public School','462',8,'average','TRUE','United States','2018','Ogden','Toovey','M',16,72),
+ ('02-6957378','Lotus Public School','463',6,'average','TRUE','United States','2018','Kerri','Hasselby','M',13,54),
+ ('04-5597628','SS Public School','464',6,'bad','TRUE','Canada','2018','Wileen','Pitcaithley','M',10,54),
+ ('45-0673066','SVP International School','465',5,'good','TRUE','Sweden','2018','Marcelline','Eddow','M',14,45),
+ ('02-6957378','Lotus Public School','466',4,'bad','TRUE','United States','2018','Kylynn','Klauer','F',10,36),
+ ('04-5597628','SS Public School','467',7,'worst','TRUE','Canada','2018','Nicola','Reynish','M',13,63),
+ ('04-5597628','SS Public School','468',4,'bad','FALSE','Canada','2018','Else','Kensington','M',14,36),
+ ('02-6957378','Lotus Public School','469',5,'worst','TRUE','United States','2018','Catarina','Hovey','F',11,45),
+ ('33-9516954','Rose International School','470',4,'worst','TRUE','India','2018','Sonny','Jakeway','M',16,36),
+ ('33-9516954','Rose International School','471',6,'great','FALSE','India','2018','Carlye','Dunbobin','M',10,54),
+ ('02-6957378','Lotus Public School','472',4,'great','FALSE','United States','2018','Durand','Ennor','M',14,36),
+ ('04-5597628','SS Public School','473',5,'worst','FALSE','Canada','2018','Irene','Rooney','F',15,45),
+ ('33-9516954','Rose International School','474',6,'good','FALSE','India','2018','Bonny','Drinan','F',17,54),
+ ('02-6957378','Lotus Public School','475',5,'great','TRUE','United States','2018','Tailor','Backshell','F',14,45),
+ ('33-9516954','Rose International School','476',6,'bad','FALSE','India','2018','Wynne','Haddow','F',11,54),
+ ('45-0673066','SVP International School','477',6,'average','TRUE','Sweden','2018','Larina','Piesold','M',16,54),
+ ('04-5597628','SS Public School','478',8,'great','FALSE','Canada','2018','Deloria','Boodle','M',10,72),
+ ('33-9516954','Rose International School','479',4,'worst','FALSE','India','2018','Shelba','Hatzar','M',12,36),
+ ('04-5597628','SS Public School','480',8,'average','FALSE','Canada','2018','Rosamund','Corzor','F',10,72),
+ ('45-0673066','SVP International School','481',6,'worst','TRUE','Sweden','2018','Zebulon','Peacock','M',10,54),
+ ('33-9516954','Rose International School','482',8,'good','TRUE','India','2018','Agosto','Chinnick','M',15,72),
+ ('33-9516954','Rose International School','483',8,'average','FALSE','India','2018','Wesley','Polet','F',14,72),
+ ('04-5597628','SS Public School','484',4,'average','TRUE','Canada','2018','Dominik','Ollie','F',17,36),
+ ('02-6957378','Lotus Public School','485',7,'bad','FALSE','United States','2018','Tiertza','Hailes','M',17,63),
+ ('04-5597628','SS Public School','486',8,'bad','FALSE','Canada','2018','Garvy','Bazell','M',15,72),
+ ('33-9516954','Rose International School','487',4,'great','TRUE','India','2018','Ginger','Coltart','M',10,36),
+ ('33-9516954','Rose International School','488',7,'good','TRUE','India','2018','Cleve','Hebborn','M',16,63),
+ ('02-6957378','Lotus Public School','489',4,'great','TRUE','United States','2018','Jerrie','Broxholme','F',17,36),
+ ('04-5597628','SS Public School','490',4,'average','FALSE','Canada','2018','Karmen','Marshal','M',12,36),
+ ('33-9516954','Rose International School','491',8,'great','TRUE','India','2018','Antonino','Braddick','M',14,72),
+ ('33-9516954','Rose International School','492',6,'good','FALSE','India','2018','Halsey','Antonetti','F',14,54),
+ ('33-9516954','Rose International School','493',4,'worst','FALSE','India','2018','Eileen','Stanlock','F',11,36),
+ ('33-9516954','Rose International School','494',6,'good','TRUE','India','2018','Sabra','Tremaine','F',12,54),
+ ('33-9516954','Rose International School','495',7,'great','FALSE','India','2018','Lula','Rosenthaler','F',11,63),
+ ('02-6957378','Lotus Public School','496',4,'great','FALSE','United States','2018','Winfield','O''Ferris','F',10,36),
+ ('02-6957378','Lotus Public School','497',4,'bad','TRUE','United States','2018','Harman','Syrad','M',11,36),
+ ('04-5597628','SS Public School','498',8,'worst','TRUE','Canada','2018','Rubina','Senechell','M',14,72),
+ ('45-0673066','SVP International School','499',6,'great','TRUE','Sweden','2018','Theodosia','Pauling','M',15,54),
+ ('04-5597628','SS Public School','500',5,'great','TRUE','Canada','2018','Tierney','Alyukin','M',14,45),
+ ('45-0673066','SVP International School','501',5,'average','FALSE','Sweden','2018','Jillane','Creavan','M',11,45),
+ ('02-6957378','Lotus Public School','502',5,'good','FALSE','United States','2018','Giralda','Pittem','M',10,45),
+ ('33-9516954','Rose International School','503',4,'good','FALSE','India','2018','Obie','Sumption','F',10,36),
+ ('45-0673066','SVP International School','504',5,'average','TRUE','Sweden','2018','Jessamine','St. Queintain','F',17,45),
+ ('45-0673066','SVP International School','505',4,'good','TRUE','Sweden','2018','Norrie','MacGiffin','M',13,36),
+ ('02-6957378','Lotus Public School','506',5,'bad','TRUE','United States','2018','Gunter','Loughren','M',12,45),
+ ('33-9516954','Rose International School','507',6,'bad','FALSE','India','2018','Ashlen','Poynzer','M',12,54),
+ ('45-0673066','SVP International School','508',8,'great','FALSE','Sweden','2018','Torre','Callard','F',13,72),
+ ('04-5597628','SS Public School','509',7,'great','TRUE','Canada','2018','Vevay','Cunnane','M',13,63),
+ ('04-5597628','SS Public School','510',7,'average','TRUE','Canada','2018','Boyd','Vales','M',17,63),
+ ('45-0673066','SVP International School','511',8,'average','FALSE','Sweden','2018','Kassie','Derrington','M',12,72),
+ ('04-5597628','SS Public School','512',5,'great','FALSE','Canada','2018','Dagny','Kach','M',12,45),
+ ('04-5597628','SS Public School','513',6,'bad','TRUE','Canada','2018','Hermione','Fairham','M',13,54),
+ ('02-6957378','Lotus Public School','514',6,'good','FALSE','United States','2018','Ceil','Redborn','M',10,54),
+ ('02-6957378','Lotus Public School','515',7,'great','TRUE','United States','2018','Reena','Hanks','M',13,63),
+ ('33-9516954','Rose International School','516',8,'average','TRUE','India','2018','L,urette','Pottie','F',15,72),
+ ('02-6957378','Lotus Public School','517',6,'worst','TRUE','United States','2018','Padraig','Stutte','M',12,54),
+ ('45-0673066','SVP International School','518',4,'great','TRUE','Sweden','2018','Jillene','Rielly','F',15,36),
+ ('02-6957378','Lotus Public School','519',5,'great','TRUE','United States','2018','Ludovika','Foote','F',14,45),
+ ('02-6957378','Lotus Public School','520',7,'good','FALSE','United States','2018','Eadmund','Jacquot','F',11,63),
+ ('02-6957378','Lotus Public School','521',6,'worst','FALSE','United States','2018','Joanne','Blazeby','F',17,54),
+ ('33-9516954','Rose International School','522',6,'great','FALSE','India','2018','Thomas','MacMeanma','M',11,54),
+ ('02-6957378','Lotus Public School','523',7,'good','FALSE','United States','2018','Normand','Kuhn','M',12,63),
+ ('04-5597628','SS Public School','524',7,'average','TRUE','Canada','2018','Felipa','Eilles','M',15,63),
+ ('02-6957378','Lotus Public School','525',6,'bad','FALSE','United States','2018','Lonny','Quinnette','F',15,54),
+ ('02-6957378','Lotus Public School','526',7,'average','TRUE','United States','2018','Christoffer','Kalinke','M',10,63),
+ ('33-9516954','Rose International School','527',5,'bad','FALSE','India','2018','Clementius','Blaxter','M',17,45),
+ ('04-5597628','SS Public School','528',7,'good','TRUE','Canada','2018','Towny','Cursons','F',11,63),
+ ('33-9516954','Rose International School','529',6,'bad','TRUE','India','2018','Henrieta','Kirsch','M',15,54),
+ ('45-0673066','SVP International School','530',4,'good','FALSE','Sweden','2018','Marlene','Yetman','F',12,36),
+ ('02-6957378','Lotus Public School','531',4,'worst','FALSE','United States','2018','Cinderella','Crunkhorn','F',13,36),
+ ('33-9516954','Rose International School','532',8,'good','TRUE','India','2018','Jeddy','Cescot','M',13,72),
+ ('02-6957378','Lotus Public School','533',4,'worst','FALSE','United States','2018','Keven','Neachell','M',15,36),
+ ('04-5597628','SS Public School','534',4,'bad','FALSE','Canada','2018','Celie','Deason','F',10,36),
+ ('33-9516954','Rose International School','535',4,'good','FALSE','India','2018','Ingunna','Pavlata','F',16,36),
+ ('45-0673066','SVP International School','536',4,'bad','TRUE','Sweden','2018','Gerick','Woolland','M',17,36),
+ ('45-0673066','SVP International School','537',8,'average','TRUE','Sweden','2018','Westbrook','Polglase','M',10,72),
+ ('33-9516954','Rose International School','538',7,'worst','FALSE','India','2018','Jeremy','Marriner','F',12,63),
+ ('45-0673066','SVP International School','539',5,'average','FALSE','Sweden','2018','Justinn','Duncklee','M',10,45),
+ ('04-5597628','SS Public School','540',4,'average','FALSE','Canada','2018','Pamella','Hertwell','M',15,36),
+ ('33-9516954','Rose International School','541',6,'average','FALSE','India','2018','Greer','Gapper','F',15,54),
+ ('45-0673066','SVP International School','542',6,'great','TRUE','Sweden','2018','Sebastien','Dennes','M',11,54),
+ ('02-6957378','Lotus Public School','543',5,'bad','FALSE','United States','2018','Verene','Leeson','F',11,45),
+ ('45-0673066','SVP International School','544',7,'good','TRUE','Sweden','2018','Fran','Nerne','M',17,63),
+ ('04-5597628','SS Public School','545',4,'good','FALSE','Canada','2018','Arman','Anscott','F',14,36),
+ ('45-0673066','SVP International School','546',8,'worst','FALSE','Sweden','2018','Robbie','Yon','M',16,72),
+ ('45-0673066','SVP International School','547',8,'worst','TRUE','Sweden','2018','Aurelia','Sandlin','F',14,72),
+ ('02-6957378','Lotus Public School','548',7,'bad','FALSE','United States','2018','Zola','Valente','F',13,63),
+ ('45-0673066','SVP International School','549',5,'average','TRUE','Sweden','2018','Walker','Syplus','F',10,45),
+ ('33-9516954','Rose International School','550',5,'worst','TRUE','India','2018','Anthea','Healy','M',11,45),
+ ('33-9516954','Rose International School','551',4,'average','FALSE','India','2018','Bernadina','Hawkslee','F',16,36),
+ ('04-5597628','SS Public School','552',6,'bad','FALSE','Canada','2018','Vilma','Spellicy','F',13,54),
+ ('02-6957378','Lotus Public School','553',8,'average','FALSE','United States','2018','Giselle','McCaughey','M',17,72),
+ ('45-0673066','SVP International School','554',8,'great','FALSE','Sweden','2018','Felecia','Sibson','M',15,72),
+ ('45-0673066','SVP International School','555',4,'bad','FALSE','Sweden','2018','Celestine','Lanfere','F',15,36),
+ ('33-9516954','Rose International School','556',8,'worst','FALSE','India','2018','Michel','De Gregario','M',13,72),
+ ('02-6957378','Lotus Public School','557',7,'worst','FALSE','United States','2018','Alberta','O'' Shea','F',15,63),
+ ('33-9516954','Rose International School','558',4,'worst','FALSE','India','2018','Ibrahim','Isaac','F',16,36),
+ ('33-9516954','Rose International School','559',4,'good','FALSE','India','2018','Hedi','Flipsen','F',16,36),
+ ('04-5597628','SS Public School','560',6,'worst','TRUE','Canada','2018','Sadye','Withnall','M',16,54),
+ ('02-6957378','Lotus Public School','561',4,'bad','FALSE','United States','2018','Dede','Leadstone','M',17,36),
+ ('04-5597628','SS Public School','562',7,'bad','TRUE','Canada','2018','Carmela','Bruin','M',12,63),
+ ('33-9516954','Rose International School','563',4,'average','FALSE','India','2018','Korrie','Blackleech','M',15,36),
+ ('33-9516954','Rose International School','564',8,'worst','TRUE','India','2018','Georgina','Tommasuzzi','F',11,72),
+ ('33-9516954','Rose International School','565',7,'bad','TRUE','India','2018','Kevina','Burberow','M',15,63),
+ ('45-0673066','SVP International School','566',6,'worst','TRUE','Sweden','2018','Filmer','Szach','M',12,60),
+ ('33-9516954','Rose International School','567',6,'average','TRUE','India','2018','Christophorus','Parradye','F',14,60),
+ ('04-5597628','SS Public School','568',6,'good','FALSE','Canada','2018','Sheppard','Woolis','F',12,60),
+ ('33-9516954','Rose International School','569',6,'great','FALSE','India','2018','Hedvig','Adamo','F',15,60),
+ ('02-6957378','Lotus Public School','570',4,'great','TRUE','United States','2018','Ewell','Stockill','F',16,40),
+ ('33-9516954','Rose International School','571',7,'average','FALSE','India','2018','Clare','Deighton','M',12,70),
+ ('45-0673066','SVP International School','572',7,'average','TRUE','Sweden','2018','Field','Verney','M',16,70),
+ ('45-0673066','SVP International School','573',7,'good','FALSE','Sweden','2018','Minna','Ivanyukov','M',16,70),
+ ('02-6957378','Lotus Public School','574',6,'good','FALSE','United States','2018','Nathalie','Duigenan','F',17,60),
+ ('45-0673066','SVP International School','575',4,'great','FALSE','Sweden','2018','Merrick','Allmark','F',16,40),
+ ('45-0673066','SVP International School','576',5,'great','FALSE','Sweden','2018','Selma','Tough','M',14,50),
+ ('33-9516954','Rose International School','577',7,'good','FALSE','India','2018','Darnell','Matley','M',10,70),
+ ('04-5597628','SS Public School','578',8,'good','TRUE','Canada','2018','Chantalle','Goff','F',10,80),
+ ('45-0673066','SVP International School','579',5,'bad','TRUE','Sweden','2018','Yoko','Bartali','F',11,50),
+ ('02-6957378','Lotus Public School','580',7,'bad','FALSE','United States','2018','Carmita','Masterton','M',11,70),
+ ('02-6957378','Lotus Public School','581',4,'good','FALSE','United States','2018','Dotty','Wrigglesworth','F',12,40),
+ ('04-5597628','SS Public School','582',5,'worst','FALSE','Canada','2018','Galven','Flegg','F',10,50),
+ ('45-0673066','SVP International School','583',5,'average','FALSE','Sweden','2018','Barbie','MacCarter','F',15,50),
+ ('45-0673066','SVP International School','584',5,'worst','FALSE','Sweden','2018','Rudd','Pashenkov','F',13,50),
+ ('33-9516954','Rose International School','585',6,'average','FALSE','India','2018','Mateo','Walling','F',13,60),
+ ('04-5597628','SS Public School','586',6,'good','FALSE','Canada','2018','Owen','Panton','F',16,60),
+ ('45-0673066','SVP International School','587',4,'worst','FALSE','Sweden','2018','Thadeus','Cornbell','M',13,40),
+ ('04-5597628','SS Public School','588',8,'good','TRUE','Canada','2018','Rosaleen','Jakobssen','F',10,80),
+ ('02-6957378','Lotus Public School','589',7,'bad','FALSE','United States','2018','Margette','Lamminam','F',10,70),
+ ('45-0673066','SVP International School','590',5,'average','TRUE','Sweden','2018','Farand','Kimbury','M',12,50),
+ ('33-9516954','Rose International School','591',4,'average','TRUE','India','2018','Aime','Gilgryst','F',11,40),
+ ('45-0673066','SVP International School','592',6,'good','FALSE','Sweden','2018','Ishani','Jha','F',16,60),
+ ('45-0673066','SVP International School','593',6,'bad','TRUE','Sweden','2018','Ritu','Singh','F',10,60),
+ ('33-9516954','Rose International School','594',8,'great','TRUE','India','2018','Yash','Thakur','M',13,80),
+ ('04-5597628','SS Public School','595',4,'bad','TRUE','Canada','2018','Rani','Jha','F',11,40),
+ ('33-9516954','Rose International School','596',5,'average','FALSE','India','2018','Kritika','Jain','F',12,50),
+ ('04-5597628','SS Public School','597',4,'great','TRUE','Canada','2018','Raj','Jain','M',12,40),
+ ('02-6957378','Lotus Public School','598',5,'good','TRUE','United States','2018','Suraj','Jain','M',14,50),
+ ('45-0673066','SVP International School','599',8,'average','FALSE','Sweden','2018','Sonali','Singh','F',10,80),
+ ('45-0673066','SVP International School','600',6,'bad','TRUE','India','2018','Kavya','Jain','F',10,54);
