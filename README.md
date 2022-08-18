@@ -101,7 +101,7 @@ You could also use your preferred SQL client to execute the SQL statements. See 
 
 #### Glue Interface Endpoint
 1. Create a VPC Endpoint by selecting the 'Create Endpoint'.
-2. Set the servict category as AWS services and search for the Glue service.
+2. Set the service category as AWS services and search for the Glue service.
 3. Select the service with type Interface.
 
     ![glueendpoint-1.png](./images/glueendpoint-1.png)
