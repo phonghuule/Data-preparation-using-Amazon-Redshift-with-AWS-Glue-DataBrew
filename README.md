@@ -317,12 +317,3 @@ Follow the below steps to cleanup your account to prevent any aditional charges:
 * Navigate to [Redshift console](https://ap-southeast-2.console.aws.amazon.com/redshiftv2/home?region=ap-southeast-2#dashboard)
 * Open the student-cluster and delete the cluster. Uncheck the prompt to take a snapshot before deletion of the cluster
     ![cleanup6.png](./images/cleanup6.png)
-
-## Survey
-Let us know what you thought of this lab and how we can improve the experience for you in the future by completing [this poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6G1rmmzxUkIajTo?Session=HOL006). Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits 1, 2 & 3. AWS credits will be sent via email by September 30, 2022.
-
-Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
- 
-1. AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/ 
-2. Limited to 1 x USD25 AWS credits per participant.
-3. Participants will be required to provide their business email addresses to receive the gift code for AWS credits.
